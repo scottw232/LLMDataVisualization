@@ -24,7 +24,7 @@ jobs:
 
       - name: Activate virtual environment
         run: |
-          source venv/bin/activate
+          source /home/runner/work/LLMDataVisualization/venv/bin/activate
 
       
       - name: Install dependencies
