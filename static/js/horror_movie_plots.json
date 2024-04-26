@@ -1,0 +1,388 @@
+{
+    "nodes": [
+        {
+            "id": "house",
+            "frequency": 8
+        },
+        {
+            "id": "boat",
+            "frequency": 6
+        },
+        {
+            "id": "girl",
+            "frequency": 5
+        },
+        {
+            "id": "vampire",
+            "frequency": 5
+        },
+        {
+            "id": "demon",
+            "frequency": 5
+        },
+        {
+            "id": "group",
+            "frequency": 5
+        },
+        {
+            "id": "room",
+            "frequency": 4
+        },
+        {
+            "id": "apartment",
+            "frequency": 4
+        },
+        {
+            "id": "lake",
+            "frequency": 4
+        },
+        {
+            "id": "father",
+            "frequency": 3
+        },
+        {
+            "id": "mirror",
+            "frequency": 3
+        },
+        {
+            "id": "infected",
+            "frequency": 3
+        },
+        {
+            "id": "cabin",
+            "frequency": 3
+        },
+        {
+            "id": "ghost",
+            "frequency": 3
+        },
+        {
+            "id": "visions",
+            "frequency": 3
+        },
+        {
+            "id": "girls",
+            "frequency": 3
+        },
+        {
+            "id": "basement",
+            "frequency": 3
+        },
+        {
+            "id": "spirit",
+            "frequency": 3
+        }
+    ],
+    "links": [
+        {
+            "source": "apartment",
+            "target": "room",
+            "weight": 9
+        },
+        {
+            "source": "infected",
+            "target": "room",
+            "weight": 3
+        },
+        {
+            "source": "basement",
+            "target": "room",
+            "weight": 2
+        },
+        {
+            "source": "apartment",
+            "target": "basement",
+            "weight": 2
+        },
+        {
+            "source": "apartment",
+            "target": "infected",
+            "weight": 7
+        },
+        {
+            "source": "house",
+            "target": "room",
+            "weight": 64
+        },
+        {
+            "source": "spirit",
+            "target": "visions",
+            "weight": 9
+        },
+        {
+            "source": "group",
+            "target": "infected",
+            "weight": 9
+        },
+        {
+            "source": "father",
+            "target": "house",
+            "weight": 41
+        },
+        {
+            "source": "cabin",
+            "target": "lake",
+            "weight": 5
+        },
+        {
+            "source": "ghost",
+            "target": "visions",
+            "weight": 13
+        },
+        {
+            "source": "ghost",
+            "target": "mirror",
+            "weight": 13
+        },
+        {
+            "source": "house",
+            "target": "spirit",
+            "weight": 45
+        },
+        {
+            "source": "basement",
+            "target": "house",
+            "weight": 12
+        },
+        {
+            "source": "girl",
+            "target": "house",
+            "weight": 14
+        },
+        {
+            "source": "house",
+            "target": "lake",
+            "weight": 10
+        },
+        {
+            "source": "father",
+            "target": "room",
+            "weight": 11
+        },
+        {
+            "source": "group",
+            "target": "lake",
+            "weight": 11
+        },
+        {
+            "source": "girls",
+            "target": "lake",
+            "weight": 7
+        },
+        {
+            "source": "girls",
+            "target": "group",
+            "weight": 5
+        },
+        {
+            "source": "girls",
+            "target": "house",
+            "weight": 45
+        },
+        {
+            "source": "group",
+            "target": "house",
+            "weight": 17
+        },
+        {
+            "source": "demon",
+            "target": "girl",
+            "weight": 7
+        },
+        {
+            "source": "father",
+            "target": "vampire",
+            "weight": 5
+        },
+        {
+            "source": "mirror",
+            "target": "room",
+            "weight": 8
+        },
+        {
+            "source": "demon",
+            "target": "girls",
+            "weight": 16
+        },
+        {
+            "source": "basement",
+            "target": "demon",
+            "weight": 2
+        },
+        {
+            "source": "boat",
+            "target": "lake",
+            "weight": 21
+        },
+        {
+            "source": "father",
+            "target": "infected",
+            "weight": 6
+        },
+        {
+            "source": "ghost",
+            "target": "house",
+            "weight": 32
+        },
+        {
+            "source": "ghost",
+            "target": "room",
+            "weight": 3
+        },
+        {
+            "source": "demon",
+            "target": "room",
+            "weight": 9
+        },
+        {
+            "source": "girl",
+            "target": "group",
+            "weight": 20
+        },
+        {
+            "source": "house",
+            "target": "vampire",
+            "weight": 27
+        },
+        {
+            "source": "girl",
+            "target": "girls",
+            "weight": 2
+        },
+        {
+            "source": "girl",
+            "target": "room",
+            "weight": 4
+        },
+        {
+            "source": "father",
+            "target": "girl",
+            "weight": 14
+        },
+        {
+            "source": "apartment",
+            "target": "ghost",
+            "weight": 7
+        },
+        {
+            "source": "boat",
+            "target": "group",
+            "weight": 7
+        },
+        {
+            "source": "demon",
+            "target": "group",
+            "weight": 9
+        },
+        {
+            "source": "cabin",
+            "target": "group",
+            "weight": 5
+        },
+        {
+            "source": "cabin",
+            "target": "girl",
+            "weight": 8
+        },
+        {
+            "source": "house",
+            "target": "visions",
+            "weight": 12
+        },
+        {
+            "source": "basement",
+            "target": "father",
+            "weight": 9
+        },
+        {
+            "source": "room",
+            "target": "spirit",
+            "weight": 7
+        },
+        {
+            "source": "demon",
+            "target": "house",
+            "weight": 18
+        },
+        {
+            "source": "apartment",
+            "target": "house",
+            "weight": 16
+        },
+        {
+            "source": "demon",
+            "target": "visions",
+            "weight": 9
+        },
+        {
+            "source": "apartment",
+            "target": "visions",
+            "weight": 4
+        },
+        {
+            "source": "father",
+            "target": "girls",
+            "weight": 13
+        },
+        {
+            "source": "apartment",
+            "target": "girl",
+            "weight": 10
+        },
+        {
+            "source": "apartment",
+            "target": "group",
+            "weight": 14
+        },
+        {
+            "source": "girls",
+            "target": "vampire",
+            "weight": 3
+        },
+        {
+            "source": "mirror",
+            "target": "visions",
+            "weight": 4
+        },
+        {
+            "source": "father",
+            "target": "mirror",
+            "weight": 4
+        },
+        {
+            "source": "house",
+            "target": "mirror",
+            "weight": 7
+        },
+        {
+            "source": "group",
+            "target": "visions",
+            "weight": 6
+        },
+        {
+            "source": "apartment",
+            "target": "demon",
+            "weight": 4
+        },
+        {
+            "source": "demon",
+            "target": "spirit",
+            "weight": 14
+        },
+        {
+            "source": "girl",
+            "target": "spirit",
+            "weight": 3
+        },
+        {
+            "source": "ghost",
+            "target": "spirit",
+            "weight": 11
+        },
+        {
+            "source": "mirror",
+            "target": "spirit",
+            "weight": 5
+        }
+    ]
+}

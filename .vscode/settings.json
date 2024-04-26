@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/c57c2cc5-c1c3-4f07-b4e4-3c8a94f340c1/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/LLMDataVisualization",
+  "appService.deploySubpath": "."
+}

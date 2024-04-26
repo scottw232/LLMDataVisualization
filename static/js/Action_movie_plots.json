@@ -1,0 +1,331 @@
+{
+    "nodes": [
+        {
+            "id": "team",
+            "frequency": 7
+        },
+        {
+            "id": "car",
+            "frequency": 4
+        },
+        {
+            "id": "race",
+            "frequency": 3
+        },
+        {
+            "id": "phone",
+            "frequency": 3
+        },
+        {
+            "id": "father",
+            "frequency": 3
+        },
+        {
+            "id": "brothers",
+            "frequency": 3
+        },
+        {
+            "id": "compound",
+            "frequency": 3
+        },
+        {
+            "id": "terrorists",
+            "frequency": 3
+        },
+        {
+            "id": "syndicate",
+            "frequency": 3
+        },
+        {
+            "id": "case",
+            "frequency": 2
+        },
+        {
+            "id": "racers",
+            "frequency": 2
+        },
+        {
+            "id": "fight",
+            "frequency": 2
+        },
+        {
+            "id": "soldiers",
+            "frequency": 2
+        },
+        {
+            "id": "assassins",
+            "frequency": 2
+        },
+        {
+            "id": "kill",
+            "frequency": 2
+        },
+        {
+            "id": "bomb",
+            "frequency": 2
+        },
+        {
+            "id": "heart",
+            "frequency": 2
+        },
+        {
+            "id": "computer",
+            "frequency": 2
+        },
+        {
+            "id": "border",
+            "frequency": 2
+        },
+        {
+            "id": "money",
+            "frequency": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "race",
+            "target": "racers",
+            "weight": 30
+        },
+        {
+            "source": "car",
+            "target": "case",
+            "weight": 46
+        },
+        {
+            "source": "bomb",
+            "target": "car",
+            "weight": 44
+        },
+        {
+            "source": "bomb",
+            "target": "case",
+            "weight": 6
+        },
+        {
+            "source": "father",
+            "target": "team",
+            "weight": 12
+        },
+        {
+            "source": "father",
+            "target": "fight",
+            "weight": 11
+        },
+        {
+            "source": "car",
+            "target": "father",
+            "weight": 7
+        },
+        {
+            "source": "car",
+            "target": "fight",
+            "weight": 15
+        },
+        {
+            "source": "kill",
+            "target": "soldiers",
+            "weight": 24
+        },
+        {
+            "source": "fight",
+            "target": "soldiers",
+            "weight": 12
+        },
+        {
+            "source": "fight",
+            "target": "kill",
+            "weight": 27
+        },
+        {
+            "source": "father",
+            "target": "kill",
+            "weight": 11
+        },
+        {
+            "source": "heart",
+            "target": "kill",
+            "weight": 7
+        },
+        {
+            "source": "money",
+            "target": "race",
+            "weight": 5
+        },
+        {
+            "source": "bomb",
+            "target": "phone",
+            "weight": 10
+        },
+        {
+            "source": "brothers",
+            "target": "father",
+            "weight": 13
+        },
+        {
+            "source": "brothers",
+            "target": "kill",
+            "weight": 16
+        },
+        {
+            "source": "computer",
+            "target": "phone",
+            "weight": 20
+        },
+        {
+            "source": "border",
+            "target": "team",
+            "weight": 5
+        },
+        {
+            "source": "border",
+            "target": "car",
+            "weight": 6
+        },
+        {
+            "source": "fight",
+            "target": "money",
+            "weight": 26
+        },
+        {
+            "source": "compound",
+            "target": "team",
+            "weight": 40
+        },
+        {
+            "source": "compound",
+            "target": "kill",
+            "weight": 8
+        },
+        {
+            "source": "kill",
+            "target": "team",
+            "weight": 15
+        },
+        {
+            "source": "soldiers",
+            "target": "team",
+            "weight": 8
+        },
+        {
+            "source": "fight",
+            "target": "team",
+            "weight": 31
+        },
+        {
+            "source": "money",
+            "target": "terrorists",
+            "weight": 5
+        },
+        {
+            "source": "kill",
+            "target": "money",
+            "weight": 14
+        },
+        {
+            "source": "kill",
+            "target": "phone",
+            "weight": 11
+        },
+        {
+            "source": "case",
+            "target": "terrorists",
+            "weight": 14
+        },
+        {
+            "source": "team",
+            "target": "terrorists",
+            "weight": 3
+        },
+        {
+            "source": "kill",
+            "target": "race",
+            "weight": 4
+        },
+        {
+            "source": "fight",
+            "target": "race",
+            "weight": 13
+        },
+        {
+            "source": "fight",
+            "target": "racers",
+            "weight": 8
+        },
+        {
+            "source": "kill",
+            "target": "racers",
+            "weight": 3
+        },
+        {
+            "source": "car",
+            "target": "race",
+            "weight": 22
+        },
+        {
+            "source": "father",
+            "target": "money",
+            "weight": 3
+        },
+        {
+            "source": "fight",
+            "target": "phone",
+            "weight": 4
+        },
+        {
+            "source": "assassins",
+            "target": "brothers",
+            "weight": 8
+        },
+        {
+            "source": "brothers",
+            "target": "car",
+            "weight": 21
+        },
+        {
+            "source": "car",
+            "target": "phone",
+            "weight": 9
+        },
+        {
+            "source": "fight",
+            "target": "syndicate",
+            "weight": 16
+        },
+        {
+            "source": "bomb",
+            "target": "money",
+            "weight": 5
+        },
+        {
+            "source": "father",
+            "target": "race",
+            "weight": 4
+        },
+        {
+            "source": "money",
+            "target": "team",
+            "weight": 22
+        },
+        {
+            "source": "phone",
+            "target": "team",
+            "weight": 2
+        },
+        {
+            "source": "bomb",
+            "target": "fight",
+            "weight": 5
+        },
+        {
+            "source": "soldiers",
+            "target": "syndicate",
+            "weight": 10
+        },
+        {
+            "source": "assassins",
+            "target": "soldiers",
+            "weight": 8
+        }
+    ]
+}

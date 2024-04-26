@@ -1,0 +1,936 @@
+{
+    "nodes": [
+        {
+            "id": "team",
+            "frequency": 46
+        },
+        {
+            "id": "school",
+            "frequency": 36
+        },
+        {
+            "id": "house",
+            "frequency": 35
+        },
+        {
+            "id": "family",
+            "frequency": 32
+        },
+        {
+            "id": "father",
+            "frequency": 31
+        },
+        {
+            "id": "wedding",
+            "frequency": 30
+        },
+        {
+            "id": "ship",
+            "frequency": 30
+        },
+        {
+            "id": "police",
+            "frequency": 28
+        },
+        {
+            "id": "children",
+            "frequency": 27
+        },
+        {
+            "id": "car",
+            "frequency": 26
+        },
+        {
+            "id": "money",
+            "frequency": 25
+        },
+        {
+            "id": "crew",
+            "frequency": 24
+        },
+        {
+            "id": "gang",
+            "frequency": 22
+        },
+        {
+            "id": "mother",
+            "frequency": 22
+        },
+        {
+            "id": "book",
+            "frequency": 21
+        },
+        {
+            "id": "baby",
+            "frequency": 21
+        },
+        {
+            "id": "group",
+            "frequency": 21
+        },
+        {
+            "id": "sex",
+            "frequency": 20
+        },
+        {
+            "id": "game",
+            "frequency": 20
+        },
+        {
+            "id": "hotel",
+            "frequency": 19
+        }
+    ],
+    "links": [
+        {
+            "source": "school",
+            "target": "team",
+            "weight": 167
+        },
+        {
+            "source": "car",
+            "target": "sex",
+            "weight": 82
+        },
+        {
+            "source": "mother",
+            "target": "wedding",
+            "weight": 97
+        },
+        {
+            "source": "book",
+            "target": "house",
+            "weight": 44
+        },
+        {
+            "source": "father",
+            "target": "wedding",
+            "weight": 83
+        },
+        {
+            "source": "gang",
+            "target": "sex",
+            "weight": 8
+        },
+        {
+            "source": "car",
+            "target": "gang",
+            "weight": 69
+        },
+        {
+            "source": "car",
+            "target": "police",
+            "weight": 541
+        },
+        {
+            "source": "father",
+            "target": "hotel",
+            "weight": 39
+        },
+        {
+            "source": "family",
+            "target": "father",
+            "weight": 456
+        },
+        {
+            "source": "family",
+            "target": "hotel",
+            "weight": 31
+        },
+        {
+            "source": "car",
+            "target": "hotel",
+            "weight": 26
+        },
+        {
+            "source": "hotel",
+            "target": "school",
+            "weight": 7
+        },
+        {
+            "source": "baby",
+            "target": "school",
+            "weight": 7
+        },
+        {
+            "source": "house",
+            "target": "police",
+            "weight": 346
+        },
+        {
+            "source": "father",
+            "target": "mother",
+            "weight": 964
+        },
+        {
+            "source": "family",
+            "target": "mother",
+            "weight": 340
+        },
+        {
+            "source": "children",
+            "target": "mother",
+            "weight": 131
+        },
+        {
+            "source": "children",
+            "target": "father",
+            "weight": 182
+        },
+        {
+            "source": "mother",
+            "target": "police",
+            "weight": 92
+        },
+        {
+            "source": "mother",
+            "target": "sex",
+            "weight": 49
+        },
+        {
+            "source": "money",
+            "target": "mother",
+            "weight": 105
+        },
+        {
+            "source": "baby",
+            "target": "sex",
+            "weight": 14
+        },
+        {
+            "source": "father",
+            "target": "school",
+            "weight": 239
+        },
+        {
+            "source": "father",
+            "target": "police",
+            "weight": 133
+        },
+        {
+            "source": "car",
+            "target": "father",
+            "weight": 248
+        },
+        {
+            "source": "baby",
+            "target": "mother",
+            "weight": 97
+        },
+        {
+            "source": "baby",
+            "target": "father",
+            "weight": 72
+        },
+        {
+            "source": "money",
+            "target": "school",
+            "weight": 96
+        },
+        {
+            "source": "hotel",
+            "target": "sex",
+            "weight": 83
+        },
+        {
+            "source": "book",
+            "target": "father",
+            "weight": 58
+        },
+        {
+            "source": "group",
+            "target": "police",
+            "weight": 73
+        },
+        {
+            "source": "police",
+            "target": "team",
+            "weight": 36
+        },
+        {
+            "source": "group",
+            "target": "team",
+            "weight": 126
+        },
+        {
+            "source": "car",
+            "target": "group",
+            "weight": 120
+        },
+        {
+            "source": "mother",
+            "target": "school",
+            "weight": 163
+        },
+        {
+            "source": "car",
+            "target": "family",
+            "weight": 149
+        },
+        {
+            "source": "game",
+            "target": "team",
+            "weight": 144
+        },
+        {
+            "source": "car",
+            "target": "mother",
+            "weight": 166
+        },
+        {
+            "source": "baby",
+            "target": "family",
+            "weight": 91
+        },
+        {
+            "source": "father",
+            "target": "money",
+            "weight": 107
+        },
+        {
+            "source": "car",
+            "target": "team",
+            "weight": 38
+        },
+        {
+            "source": "mother",
+            "target": "team",
+            "weight": 12
+        },
+        {
+            "source": "father",
+            "target": "team",
+            "weight": 64
+        },
+        {
+            "source": "father",
+            "target": "game",
+            "weight": 60
+        },
+        {
+            "source": "father",
+            "target": "house",
+            "weight": 340
+        },
+        {
+            "source": "baby",
+            "target": "crew",
+            "weight": 3
+        },
+        {
+            "source": "gang",
+            "target": "house",
+            "weight": 76
+        },
+        {
+            "source": "gang",
+            "target": "police",
+            "weight": 61
+        },
+        {
+            "source": "family",
+            "target": "house",
+            "weight": 406
+        },
+        {
+            "source": "group",
+            "target": "house",
+            "weight": 156
+        },
+        {
+            "source": "house",
+            "target": "school",
+            "weight": 102
+        },
+        {
+            "source": "house",
+            "target": "mother",
+            "weight": 434
+        },
+        {
+            "source": "game",
+            "target": "house",
+            "weight": 56
+        },
+        {
+            "source": "group",
+            "target": "school",
+            "weight": 88
+        },
+        {
+            "source": "book",
+            "target": "group",
+            "weight": 19
+        },
+        {
+            "source": "car",
+            "target": "house",
+            "weight": 340
+        },
+        {
+            "source": "group",
+            "target": "sex",
+            "weight": 77
+        },
+        {
+            "source": "children",
+            "target": "sex",
+            "weight": 11
+        },
+        {
+            "source": "hotel",
+            "target": "wedding",
+            "weight": 26
+        },
+        {
+            "source": "group",
+            "target": "wedding",
+            "weight": 23
+        },
+        {
+            "source": "game",
+            "target": "mother",
+            "weight": 20
+        },
+        {
+            "source": "money",
+            "target": "team",
+            "weight": 44
+        },
+        {
+            "source": "crew",
+            "target": "ship",
+            "weight": 165
+        },
+        {
+            "source": "crew",
+            "target": "police",
+            "weight": 50
+        },
+        {
+            "source": "game",
+            "target": "school",
+            "weight": 56
+        },
+        {
+            "source": "father",
+            "target": "ship",
+            "weight": 20
+        },
+        {
+            "source": "children",
+            "target": "family",
+            "weight": 144
+        },
+        {
+            "source": "game",
+            "target": "group",
+            "weight": 58
+        },
+        {
+            "source": "group",
+            "target": "ship",
+            "weight": 47
+        },
+        {
+            "source": "hotel",
+            "target": "mother",
+            "weight": 21
+        },
+        {
+            "source": "hotel",
+            "target": "police",
+            "weight": 68
+        },
+        {
+            "source": "hotel",
+            "target": "house",
+            "weight": 16
+        },
+        {
+            "source": "family",
+            "target": "police",
+            "weight": 59
+        },
+        {
+            "source": "car",
+            "target": "wedding",
+            "weight": 6
+        },
+        {
+            "source": "police",
+            "target": "wedding",
+            "weight": 12
+        },
+        {
+            "source": "children",
+            "target": "house",
+            "weight": 200
+        },
+        {
+            "source": "children",
+            "target": "school",
+            "weight": 147
+        },
+        {
+            "source": "children",
+            "target": "team",
+            "weight": 7
+        },
+        {
+            "source": "book",
+            "target": "wedding",
+            "weight": 5
+        },
+        {
+            "source": "car",
+            "target": "school",
+            "weight": 91
+        },
+        {
+            "source": "family",
+            "target": "wedding",
+            "weight": 63
+        },
+        {
+            "source": "family",
+            "target": "sex",
+            "weight": 29
+        },
+        {
+            "source": "family",
+            "target": "team",
+            "weight": 36
+        },
+        {
+            "source": "book",
+            "target": "children",
+            "weight": 67
+        },
+        {
+            "source": "crew",
+            "target": "school",
+            "weight": 4
+        },
+        {
+            "source": "crew",
+            "target": "family",
+            "weight": 31
+        },
+        {
+            "source": "crew",
+            "target": "house",
+            "weight": 44
+        },
+        {
+            "source": "crew",
+            "target": "group",
+            "weight": 35
+        },
+        {
+            "source": "group",
+            "target": "money",
+            "weight": 36
+        },
+        {
+            "source": "family",
+            "target": "school",
+            "weight": 81
+        },
+        {
+            "source": "gang",
+            "target": "group",
+            "weight": 35
+        },
+        {
+            "source": "family",
+            "target": "money",
+            "weight": 95
+        },
+        {
+            "source": "gang",
+            "target": "wedding",
+            "weight": 5
+        },
+        {
+            "source": "book",
+            "target": "game",
+            "weight": 4
+        },
+        {
+            "source": "baby",
+            "target": "children",
+            "weight": 21
+        },
+        {
+            "source": "car",
+            "target": "game",
+            "weight": 10
+        },
+        {
+            "source": "children",
+            "target": "game",
+            "weight": 11
+        },
+        {
+            "source": "family",
+            "target": "group",
+            "weight": 89
+        },
+        {
+            "source": "book",
+            "target": "school",
+            "weight": 30
+        },
+        {
+            "source": "house",
+            "target": "sex",
+            "weight": 129
+        },
+        {
+            "source": "children",
+            "target": "group",
+            "weight": 91
+        },
+        {
+            "source": "family",
+            "target": "gang",
+            "weight": 28
+        },
+        {
+            "source": "money",
+            "target": "police",
+            "weight": 152
+        },
+        {
+            "source": "gang",
+            "target": "mother",
+            "weight": 13
+        },
+        {
+            "source": "book",
+            "target": "police",
+            "weight": 5
+        },
+        {
+            "source": "book",
+            "target": "team",
+            "weight": 12
+        },
+        {
+            "source": "book",
+            "target": "gang",
+            "weight": 21
+        },
+        {
+            "source": "father",
+            "target": "sex",
+            "weight": 38
+        },
+        {
+            "source": "book",
+            "target": "mother",
+            "weight": 63
+        },
+        {
+            "source": "group",
+            "target": "mother",
+            "weight": 77
+        },
+        {
+            "source": "gang",
+            "target": "hotel",
+            "weight": 25
+        },
+        {
+            "source": "money",
+            "target": "sex",
+            "weight": 36
+        },
+        {
+            "source": "money",
+            "target": "wedding",
+            "weight": 15
+        },
+        {
+            "source": "crew",
+            "target": "hotel",
+            "weight": 15
+        },
+        {
+            "source": "car",
+            "target": "money",
+            "weight": 136
+        },
+        {
+            "source": "hotel",
+            "target": "money",
+            "weight": 12
+        },
+        {
+            "source": "crew",
+            "target": "money",
+            "weight": 30
+        },
+        {
+            "source": "school",
+            "target": "sex",
+            "weight": 2
+        },
+        {
+            "source": "car",
+            "target": "children",
+            "weight": 10
+        },
+        {
+            "source": "children",
+            "target": "ship",
+            "weight": 7
+        },
+        {
+            "source": "book",
+            "target": "car",
+            "weight": 6
+        },
+        {
+            "source": "crew",
+            "target": "game",
+            "weight": 6
+        },
+        {
+            "source": "group",
+            "target": "hotel",
+            "weight": 40
+        },
+        {
+            "source": "baby",
+            "target": "car",
+            "weight": 29
+        },
+        {
+            "source": "crew",
+            "target": "gang",
+            "weight": 8
+        },
+        {
+            "source": "ship",
+            "target": "team",
+            "weight": 18
+        },
+        {
+            "source": "house",
+            "target": "money",
+            "weight": 187
+        },
+        {
+            "source": "police",
+            "target": "school",
+            "weight": 65
+        },
+        {
+            "source": "father",
+            "target": "gang",
+            "weight": 28
+        },
+        {
+            "source": "house",
+            "target": "team",
+            "weight": 76
+        },
+        {
+            "source": "money",
+            "target": "ship",
+            "weight": 9
+        },
+        {
+            "source": "police",
+            "target": "sex",
+            "weight": 4
+        },
+        {
+            "source": "crew",
+            "target": "father",
+            "weight": 6
+        },
+        {
+            "source": "baby",
+            "target": "money",
+            "weight": 28
+        },
+        {
+            "source": "baby",
+            "target": "house",
+            "weight": 62
+        },
+        {
+            "source": "team",
+            "target": "wedding",
+            "weight": 5
+        },
+        {
+            "source": "book",
+            "target": "family",
+            "weight": 44
+        },
+        {
+            "source": "mother",
+            "target": "ship",
+            "weight": 48
+        },
+        {
+            "source": "children",
+            "target": "hotel",
+            "weight": 14
+        },
+        {
+            "source": "book",
+            "target": "money",
+            "weight": 37
+        },
+        {
+            "source": "house",
+            "target": "wedding",
+            "weight": 18
+        },
+        {
+            "source": "school",
+            "target": "ship",
+            "weight": 6
+        },
+        {
+            "source": "family",
+            "target": "game",
+            "weight": 44
+        },
+        {
+            "source": "children",
+            "target": "police",
+            "weight": 20
+        },
+        {
+            "source": "gang",
+            "target": "school",
+            "weight": 19
+        },
+        {
+            "source": "baby",
+            "target": "police",
+            "weight": 20
+        },
+        {
+            "source": "gang",
+            "target": "ship",
+            "weight": 5
+        },
+        {
+            "source": "gang",
+            "target": "team",
+            "weight": 14
+        },
+        {
+            "source": "hotel",
+            "target": "team",
+            "weight": 23
+        },
+        {
+            "source": "book",
+            "target": "hotel",
+            "weight": 4
+        },
+        {
+            "source": "gang",
+            "target": "money",
+            "weight": 37
+        },
+        {
+            "source": "game",
+            "target": "sex",
+            "weight": 12
+        },
+        {
+            "source": "house",
+            "target": "ship",
+            "weight": 9
+        },
+        {
+            "source": "children",
+            "target": "money",
+            "weight": 2
+        },
+        {
+            "source": "book",
+            "target": "sex",
+            "weight": 8
+        },
+        {
+            "source": "baby",
+            "target": "book",
+            "weight": 8
+        },
+        {
+            "source": "children",
+            "target": "wedding",
+            "weight": 3
+        },
+        {
+            "source": "family",
+            "target": "ship",
+            "weight": 43
+        },
+        {
+            "source": "game",
+            "target": "money",
+            "weight": 61
+        },
+        {
+            "source": "game",
+            "target": "police",
+            "weight": 23
+        },
+        {
+            "source": "crew",
+            "target": "mother",
+            "weight": 4
+        },
+        {
+            "source": "baby",
+            "target": "group",
+            "weight": 17
+        },
+        {
+            "source": "sex",
+            "target": "wedding",
+            "weight": 9
+        },
+        {
+            "source": "car",
+            "target": "crew",
+            "weight": 11
+        },
+        {
+            "source": "father",
+            "target": "group",
+            "weight": 39
+        },
+        {
+            "source": "crew",
+            "target": "team",
+            "weight": 24
+        },
+        {
+            "source": "school",
+            "target": "wedding",
+            "weight": 6
+        },
+        {
+            "source": "car",
+            "target": "ship",
+            "weight": 2
+        },
+        {
+            "source": "book",
+            "target": "crew",
+            "weight": 3
+        }
+    ]
+}

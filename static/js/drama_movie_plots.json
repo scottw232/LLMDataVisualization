@@ -1,0 +1,401 @@
+{
+    "nodes": [
+        {
+            "id": "team",
+            "frequency": 7
+        },
+        {
+            "id": "father",
+            "frequency": 7
+        },
+        {
+            "id": "tells",
+            "frequency": 7
+        },
+        {
+            "id": "camp",
+            "frequency": 6
+        },
+        {
+            "id": "boy",
+            "frequency": 6
+        },
+        {
+            "id": "school",
+            "frequency": 5
+        },
+        {
+            "id": "crash",
+            "frequency": 5
+        },
+        {
+            "id": "drug",
+            "frequency": 5
+        },
+        {
+            "id": "suicide",
+            "frequency": 5
+        },
+        {
+            "id": "grace",
+            "frequency": 5
+        },
+        {
+            "id": "church",
+            "frequency": 4
+        },
+        {
+            "id": "book",
+            "frequency": 4
+        },
+        {
+            "id": "plane",
+            "frequency": 4
+        },
+        {
+            "id": "play",
+            "frequency": 4
+        },
+        {
+            "id": "hotel",
+            "frequency": 4
+        },
+        {
+            "id": "war",
+            "frequency": 4
+        },
+        {
+            "id": "party",
+            "frequency": 4
+        },
+        {
+            "id": "funeral",
+            "frequency": 4
+        },
+        {
+            "id": "baby",
+            "frequency": 4
+        },
+        {
+            "id": "men",
+            "frequency": 4
+        }
+    ],
+    "links": [
+        {
+            "source": "school",
+            "target": "tells",
+            "weight": 13
+        },
+        {
+            "source": "play",
+            "target": "team",
+            "weight": 19
+        },
+        {
+            "source": "school",
+            "target": "team",
+            "weight": 37
+        },
+        {
+            "source": "boy",
+            "target": "camp",
+            "weight": 8
+        },
+        {
+            "source": "camp",
+            "target": "father",
+            "weight": 10
+        },
+        {
+            "source": "father",
+            "target": "tells",
+            "weight": 98
+        },
+        {
+            "source": "boy",
+            "target": "tells",
+            "weight": 31
+        },
+        {
+            "source": "baby",
+            "target": "father",
+            "weight": 5
+        },
+        {
+            "source": "hotel",
+            "target": "tells",
+            "weight": 25
+        },
+        {
+            "source": "father",
+            "target": "school",
+            "weight": 57
+        },
+        {
+            "source": "boy",
+            "target": "school",
+            "weight": 33
+        },
+        {
+            "source": "church",
+            "target": "school",
+            "weight": 39
+        },
+        {
+            "source": "church",
+            "target": "tells",
+            "weight": 24
+        },
+        {
+            "source": "book",
+            "target": "father",
+            "weight": 5
+        },
+        {
+            "source": "crash",
+            "target": "team",
+            "weight": 4
+        },
+        {
+            "source": "father",
+            "target": "team",
+            "weight": 5
+        },
+        {
+            "source": "church",
+            "target": "party",
+            "weight": 17
+        },
+        {
+            "source": "baby",
+            "target": "tells",
+            "weight": 34
+        },
+        {
+            "source": "crash",
+            "target": "plane",
+            "weight": 71
+        },
+        {
+            "source": "crash",
+            "target": "suicide",
+            "weight": 6
+        },
+        {
+            "source": "crash",
+            "target": "tells",
+            "weight": 14
+        },
+        {
+            "source": "plane",
+            "target": "tells",
+            "weight": 15
+        },
+        {
+            "source": "suicide",
+            "target": "tells",
+            "weight": 20
+        },
+        {
+            "source": "play",
+            "target": "tells",
+            "weight": 27
+        },
+        {
+            "source": "hotel",
+            "target": "men",
+            "weight": 10
+        },
+        {
+            "source": "school",
+            "target": "suicide",
+            "weight": 5
+        },
+        {
+            "source": "funeral",
+            "target": "party",
+            "weight": 50
+        },
+        {
+            "source": "funeral",
+            "target": "hotel",
+            "weight": 7
+        },
+        {
+            "source": "drug",
+            "target": "hotel",
+            "weight": 7
+        },
+        {
+            "source": "father",
+            "target": "hotel",
+            "weight": 10
+        },
+        {
+            "source": "drug",
+            "target": "father",
+            "weight": 18
+        },
+        {
+            "source": "boy",
+            "target": "father",
+            "weight": 10
+        },
+        {
+            "source": "book",
+            "target": "suicide",
+            "weight": 7
+        },
+        {
+            "source": "drug",
+            "target": "tells",
+            "weight": 15
+        },
+        {
+            "source": "men",
+            "target": "tells",
+            "weight": 39
+        },
+        {
+            "source": "church",
+            "target": "funeral",
+            "weight": 8
+        },
+        {
+            "source": "funeral",
+            "target": "tells",
+            "weight": 31
+        },
+        {
+            "source": "party",
+            "target": "tells",
+            "weight": 22
+        },
+        {
+            "source": "father",
+            "target": "funeral",
+            "weight": 18
+        },
+        {
+            "source": "book",
+            "target": "tells",
+            "weight": 11
+        },
+        {
+            "source": "drug",
+            "target": "party",
+            "weight": 6
+        },
+        {
+            "source": "baby",
+            "target": "funeral",
+            "weight": 3
+        },
+        {
+            "source": "drug",
+            "target": "funeral",
+            "weight": 5
+        },
+        {
+            "source": "tells",
+            "target": "war",
+            "weight": 10
+        },
+        {
+            "source": "church",
+            "target": "play",
+            "weight": 4
+        },
+        {
+            "source": "father",
+            "target": "grace",
+            "weight": 13
+        },
+        {
+            "source": "baby",
+            "target": "drug",
+            "weight": 10
+        },
+        {
+            "source": "church",
+            "target": "plane",
+            "weight": 5
+        },
+        {
+            "source": "church",
+            "target": "crash",
+            "weight": 4
+        },
+        {
+            "source": "crash",
+            "target": "funeral",
+            "weight": 3
+        },
+        {
+            "source": "father",
+            "target": "party",
+            "weight": 17
+        },
+        {
+            "source": "grace",
+            "target": "tells",
+            "weight": 4
+        },
+        {
+            "source": "camp",
+            "target": "grace",
+            "weight": 8
+        },
+        {
+            "source": "baby",
+            "target": "party",
+            "weight": 3
+        },
+        {
+            "source": "father",
+            "target": "men",
+            "weight": 6
+        },
+        {
+            "source": "team",
+            "target": "tells",
+            "weight": 6
+        },
+        {
+            "source": "camp",
+            "target": "war",
+            "weight": 4
+        },
+        {
+            "source": "baby",
+            "target": "church",
+            "weight": 3
+        },
+        {
+            "source": "hotel",
+            "target": "party",
+            "weight": 2
+        },
+        {
+            "source": "boy",
+            "target": "party",
+            "weight": 3
+        },
+        {
+            "source": "crash",
+            "target": "party",
+            "weight": 15
+        },
+        {
+            "source": "party",
+            "target": "school",
+            "weight": 2
+        },
+        {
+            "source": "church",
+            "target": "father",
+            "weight": 3
+        }
+    ]
+}

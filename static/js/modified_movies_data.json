@@ -1,0 +1,4076 @@
+{
+    "dataYears": [
+        {
+            "keyword": "2013",
+            "frequency": 822
+        },
+        {
+            "keyword": "2011",
+            "frequency": 741
+        },
+        {
+            "keyword": "2014",
+            "frequency": 715
+        },
+        {
+            "keyword": "2012",
+            "frequency": 698
+        },
+        {
+            "keyword": "2010",
+            "frequency": 671
+        },
+        {
+            "keyword": "2009",
+            "frequency": 663
+        },
+        {
+            "keyword": "2006",
+            "frequency": 648
+        },
+        {
+            "keyword": "2017",
+            "frequency": 612
+        },
+        {
+            "keyword": "2007",
+            "frequency": 579
+        },
+        {
+            "keyword": "2008",
+            "frequency": 565
+        },
+        {
+            "keyword": "2016",
+            "frequency": 558
+        },
+        {
+            "keyword": "2015",
+            "frequency": 532
+        },
+        {
+            "keyword": "2004",
+            "frequency": 439
+        },
+        {
+            "keyword": "2005",
+            "frequency": 428
+        },
+        {
+            "keyword": "2003",
+            "frequency": 387
+        },
+        {
+            "keyword": "2002",
+            "frequency": 373
+        },
+        {
+            "keyword": "2000",
+            "frequency": 373
+        },
+        {
+            "keyword": "1996",
+            "frequency": 370
+        },
+        {
+            "keyword": "1997",
+            "frequency": 369
+        },
+        {
+            "keyword": "2001",
+            "frequency": 358
+        },
+        {
+            "keyword": "1957",
+            "frequency": 355
+        },
+        {
+            "keyword": "1999",
+            "frequency": 342
+        },
+        {
+            "keyword": "1951",
+            "frequency": 335
+        },
+        {
+            "keyword": "1988",
+            "frequency": 335
+        },
+        {
+            "keyword": "1956",
+            "frequency": 334
+        },
+        {
+            "keyword": "1953",
+            "frequency": 333
+        },
+        {
+            "keyword": "1998",
+            "frequency": 329
+        },
+        {
+            "keyword": "1995",
+            "frequency": 325
+        },
+        {
+            "keyword": "1994",
+            "frequency": 322
+        },
+        {
+            "keyword": "1987",
+            "frequency": 317
+        },
+        {
+            "keyword": "1955",
+            "frequency": 316
+        },
+        {
+            "keyword": "1954",
+            "frequency": 313
+        },
+        {
+            "keyword": "1990",
+            "frequency": 307
+        },
+        {
+            "keyword": "1952",
+            "frequency": 306
+        },
+        {
+            "keyword": "1958",
+            "frequency": 304
+        },
+        {
+            "keyword": "1940",
+            "frequency": 303
+        },
+        {
+            "keyword": "1948",
+            "frequency": 303
+        },
+        {
+            "keyword": "1950",
+            "frequency": 302
+        },
+        {
+            "keyword": "1949",
+            "frequency": 296
+        },
+        {
+            "keyword": "1941",
+            "frequency": 293
+        },
+        {
+            "keyword": "1991",
+            "frequency": 290
+        },
+        {
+            "keyword": "1993",
+            "frequency": 290
+        },
+        {
+            "keyword": "1942",
+            "frequency": 286
+        },
+        {
+            "keyword": "1989",
+            "frequency": 281
+        },
+        {
+            "keyword": "1944",
+            "frequency": 276
+        },
+        {
+            "keyword": "1947",
+            "frequency": 276
+        },
+        {
+            "keyword": "1992",
+            "frequency": 273
+        },
+        {
+            "keyword": "1939",
+            "frequency": 269
+        },
+        {
+            "keyword": "1943",
+            "frequency": 266
+        },
+        {
+            "keyword": "1935",
+            "frequency": 260
+        },
+        {
+            "keyword": "1985",
+            "frequency": 256
+        },
+        {
+            "keyword": "1959",
+            "frequency": 253
+        },
+        {
+            "keyword": "1946",
+            "frequency": 248
+        },
+        {
+            "keyword": "1945",
+            "frequency": 245
+        },
+        {
+            "keyword": "1934",
+            "frequency": 244
+        },
+        {
+            "keyword": "1932",
+            "frequency": 243
+        },
+        {
+            "keyword": "1984",
+            "frequency": 240
+        },
+        {
+            "keyword": "1986",
+            "frequency": 239
+        },
+        {
+            "keyword": "1937",
+            "frequency": 237
+        },
+        {
+            "keyword": "1982",
+            "frequency": 233
+        },
+        {
+            "keyword": "1961",
+            "frequency": 229
+        },
+        {
+            "keyword": "1933",
+            "frequency": 229
+        },
+        {
+            "keyword": "1931",
+            "frequency": 223
+        },
+        {
+            "keyword": "1972",
+            "frequency": 222
+        },
+        {
+            "keyword": "1971",
+            "frequency": 219
+        },
+        {
+            "keyword": "1962",
+            "frequency": 218
+        },
+        {
+            "keyword": "1968",
+            "frequency": 218
+        },
+        {
+            "keyword": "1983",
+            "frequency": 218
+        },
+        {
+            "keyword": "1964",
+            "frequency": 213
+        },
+        {
+            "keyword": "1963",
+            "frequency": 213
+        },
+        {
+            "keyword": "1938",
+            "frequency": 212
+        },
+        {
+            "keyword": "1960",
+            "frequency": 210
+        },
+        {
+            "keyword": "1936",
+            "frequency": 204
+        },
+        {
+            "keyword": "1973",
+            "frequency": 203
+        },
+        {
+            "keyword": "1980",
+            "frequency": 192
+        },
+        {
+            "keyword": "1970",
+            "frequency": 191
+        },
+        {
+            "keyword": "1930",
+            "frequency": 188
+        },
+        {
+            "keyword": "1981",
+            "frequency": 185
+        },
+        {
+            "keyword": "1979",
+            "frequency": 184
+        },
+        {
+            "keyword": "1966",
+            "frequency": 181
+        },
+        {
+            "keyword": "1967",
+            "frequency": 181
+        },
+        {
+            "keyword": "1965",
+            "frequency": 179
+        },
+        {
+            "keyword": "1978",
+            "frequency": 173
+        },
+        {
+            "keyword": "1969",
+            "frequency": 172
+        },
+        {
+            "keyword": "1977",
+            "frequency": 163
+        },
+        {
+            "keyword": "1975",
+            "frequency": 155
+        },
+        {
+            "keyword": "1976",
+            "frequency": 150
+        },
+        {
+            "keyword": "1929",
+            "frequency": 143
+        },
+        {
+            "keyword": "1928",
+            "frequency": 100
+        },
+        {
+            "keyword": "1974",
+            "frequency": 82
+        },
+        {
+            "keyword": "1920",
+            "frequency": 69
+        },
+        {
+            "keyword": "1918",
+            "frequency": 59
+        },
+        {
+            "keyword": "1927",
+            "frequency": 56
+        },
+        {
+            "keyword": "1919",
+            "frequency": 56
+        },
+        {
+            "keyword": "1926",
+            "frequency": 55
+        },
+        {
+            "keyword": "1925",
+            "frequency": 53
+        },
+        {
+            "keyword": "1921",
+            "frequency": 51
+        },
+        {
+            "keyword": "1924",
+            "frequency": 43
+        },
+        {
+            "keyword": "1922",
+            "frequency": 39
+        },
+        {
+            "keyword": "1923",
+            "frequency": 38
+        },
+        {
+            "keyword": "1914",
+            "frequency": 37
+        },
+        {
+            "keyword": "1917",
+            "frequency": 34
+        },
+        {
+            "keyword": "1916",
+            "frequency": 24
+        },
+        {
+            "keyword": "1915",
+            "frequency": 22
+        },
+        {
+            "keyword": "1913",
+            "frequency": 9
+        },
+        {
+            "keyword": "1910",
+            "frequency": 6
+        },
+        {
+            "keyword": "1908",
+            "frequency": 6
+        },
+        {
+            "keyword": "1911",
+            "frequency": 5
+        },
+        {
+            "keyword": "1912",
+            "frequency": 4
+        },
+        {
+            "keyword": "1906",
+            "frequency": 3
+        },
+        {
+            "keyword": "1909",
+            "frequency": 3
+        },
+        {
+            "keyword": "1907",
+            "frequency": 3
+        },
+        {
+            "keyword": "1904",
+            "frequency": 1
+        },
+        {
+            "keyword": "1903",
+            "frequency": 1
+        }
+    ],
+    "dataOrigins": [
+        {
+            "keyword": "American",
+            "frequency": 16979
+        },
+        {
+            "keyword": "British",
+            "frequency": 3067
+        },
+        {
+            "keyword": "Bollywood",
+            "frequency": 2337
+        },
+        {
+            "keyword": "Telugu",
+            "frequency": 930
+        },
+        {
+            "keyword": "Tamil",
+            "frequency": 777
+        },
+        {
+            "keyword": "Japanese",
+            "frequency": 757
+        },
+        {
+            "keyword": "Canadian",
+            "frequency": 714
+        },
+        {
+            "keyword": "Malayalam",
+            "frequency": 546
+        },
+        {
+            "keyword": "Hong Kong",
+            "frequency": 476
+        },
+        {
+            "keyword": "Chinese",
+            "frequency": 457
+        },
+        {
+            "keyword": "Australian",
+            "frequency": 432
+        },
+        {
+            "keyword": "Bengali",
+            "frequency": 274
+        },
+        {
+            "keyword": "Kannada",
+            "frequency": 209
+        },
+        {
+            "keyword": "Russian",
+            "frequency": 152
+        },
+        {
+            "keyword": "Marathi",
+            "frequency": 140
+        },
+        {
+            "keyword": "Filipino",
+            "frequency": 128
+        },
+        {
+            "keyword": "Bangladeshi",
+            "frequency": 83
+        },
+        {
+            "keyword": "South_Korean",
+            "frequency": 79
+        },
+        {
+            "keyword": "Punjabi",
+            "frequency": 69
+        },
+        {
+            "keyword": "Egyptian",
+            "frequency": 67
+        },
+        {
+            "keyword": "Malaysian",
+            "frequency": 60
+        },
+        {
+            "keyword": "Turkish",
+            "frequency": 59
+        },
+        {
+            "keyword": "Assamese",
+            "frequency": 9
+        },
+        {
+            "keyword": "Maldivian",
+            "frequency": 2
+        }
+    ],
+    "dataGenres": [
+        {
+            "keyword": "drama",
+            "frequency": 6848
+        },
+        {
+            "keyword": "comedy",
+            "frequency": 5266
+        },
+        {
+            "keyword": "horror",
+            "frequency": 1312
+        },
+        {
+            "keyword": "action",
+            "frequency": 1785
+        },
+        {
+            "keyword": "thriller",
+            "frequency": 1044
+        },
+        {
+            "keyword": "romance",
+            "frequency": 1237
+        },
+        {
+            "keyword": "western",
+            "frequency": 900
+        },
+        {
+            "keyword": "crime",
+            "frequency": 686
+        },
+        {
+            "keyword": "adventure",
+            "frequency": 596
+        },
+        {
+            "keyword": "musical",
+            "frequency": 529
+        },
+        {
+            "keyword": "crime drama",
+            "frequency": 469
+        },
+        {
+            "keyword": "romantic comedy",
+            "frequency": 475
+        },
+        {
+            "keyword": "science fiction",
+            "frequency": 453
+        },
+        {
+            "keyword": "film noir",
+            "frequency": 345
+        },
+        {
+            "keyword": "mystery",
+            "frequency": 350
+        },
+        {
+            "keyword": "war",
+            "frequency": 316
+        },
+        {
+            "keyword": "animation",
+            "frequency": 316
+        },
+        {
+            "keyword": "sci-fi",
+            "frequency": 258
+        },
+        {
+            "keyword": "family",
+            "frequency": 303
+        },
+        {
+            "keyword": "fantasy",
+            "frequency": 289
+        },
+        {
+            "keyword": "animated",
+            "frequency": 241
+        },
+        {
+            "keyword": "musical comedy",
+            "frequency": 154
+        },
+        {
+            "keyword": "comedy-drama",
+            "frequency": 150
+        },
+        {
+            "keyword": "biography",
+            "frequency": 213
+        },
+        {
+            "keyword": "anime",
+            "frequency": 113
+        },
+        {
+            "keyword": "suspense",
+            "frequency": 117
+        },
+        {
+            "keyword": "romantic drama",
+            "frequency": 104
+        },
+        {
+            "keyword": "comedy drama",
+            "frequency": 104
+        },
+        {
+            "keyword": "animated short",
+            "frequency": 91
+        },
+        {
+            "keyword": "social",
+            "frequency": 92
+        },
+        {
+            "keyword": "historical",
+            "frequency": 118
+        },
+        {
+            "keyword": "action thriller",
+            "frequency": 85
+        },
+        {
+            "keyword": "documentary",
+            "frequency": 77
+        },
+        {
+            "keyword": "serial",
+            "frequency": 71
+        },
+        {
+            "keyword": "world war ii",
+            "frequency": 83
+        },
+        {
+            "keyword": "family drama",
+            "frequency": 67
+        },
+        {
+            "keyword": "war drama",
+            "frequency": 65
+        },
+        {
+            "keyword": "biopic",
+            "frequency": 64
+        },
+        {
+            "keyword": "crime thriller",
+            "frequency": 60
+        },
+        {
+            "keyword": "historical drama",
+            "frequency": 58
+        },
+        {
+            "keyword": "black comedy",
+            "frequency": 57
+        },
+        {
+            "keyword": "action comedy",
+            "frequency": 55
+        },
+        {
+            "keyword": "comedy short",
+            "frequency": 50
+        },
+        {
+            "keyword": "superhero",
+            "frequency": 57
+        },
+        {
+            "keyword": "horror comedy",
+            "frequency": 50
+        },
+        {
+            "keyword": "crime comedy",
+            "frequency": 47
+        },
+        {
+            "keyword": "martial arts",
+            "frequency": 69
+        },
+        {
+            "keyword": "social drama",
+            "frequency": 41
+        },
+        {
+            "keyword": "melodrama",
+            "frequency": 39
+        },
+        {
+            "keyword": "action drama",
+            "frequency": 41
+        },
+        {
+            "keyword": "mockumentary",
+            "frequency": 32
+        },
+        {
+            "keyword": "short",
+            "frequency": 31
+        },
+        {
+            "keyword": "",
+            "frequency": 28
+        },
+        {
+            "keyword": "romance drama",
+            "frequency": 28
+        },
+        {
+            "keyword": "tokusatsu",
+            "frequency": 34
+        },
+        {
+            "keyword": "spy",
+            "frequency": 58
+        },
+        {
+            "keyword": "animated film",
+            "frequency": 25
+        },
+        {
+            "keyword": "dramedy",
+            "frequency": 30
+        },
+        {
+            "keyword": "sports",
+            "frequency": 33
+        },
+        {
+            "keyword": "psychological thriller",
+            "frequency": 24
+        },
+        {
+            "keyword": "mythology",
+            "frequency": 22
+        },
+        {
+            "keyword": "biographical",
+            "frequency": 27
+        },
+        {
+            "keyword": "sports drama",
+            "frequency": 20
+        },
+        {
+            "keyword": "literary drama",
+            "frequency": 20
+        },
+        {
+            "keyword": "short subject",
+            "frequency": 19
+        },
+        {
+            "keyword": "political thriller",
+            "frequency": 18
+        },
+        {
+            "keyword": "romantic thriller",
+            "frequency": 19
+        },
+        {
+            "keyword": "folklore",
+            "frequency": 17
+        },
+        {
+            "keyword": "costume drama",
+            "frequency": 16
+        },
+        {
+            "keyword": "masala",
+            "frequency": 16
+        },
+        {
+            "keyword": "horror thriller",
+            "frequency": 16
+        },
+        {
+            "keyword": "docudrama",
+            "frequency": 16
+        },
+        {
+            "keyword": "science-fiction",
+            "frequency": 17
+        },
+        {
+            "keyword": "western comedy",
+            "frequency": 15
+        },
+        {
+            "keyword": "rom com",
+            "frequency": 15
+        },
+        {
+            "keyword": "animated feature",
+            "frequency": 14
+        },
+        {
+            "keyword": "action adventure",
+            "frequency": 15
+        },
+        {
+            "keyword": "family film",
+            "frequency": 15
+        },
+        {
+            "keyword": "social family drama",
+            "frequency": 14
+        },
+        {
+            "keyword": "kaiju",
+            "frequency": 13
+        },
+        {
+            "keyword": "sex comedy",
+            "frequency": 14
+        },
+        {
+            "keyword": "propaganda",
+            "frequency": 13
+        },
+        {
+            "keyword": "musical drama",
+            "frequency": 13
+        },
+        {
+            "keyword": "sci-fi comedy",
+            "frequency": 12
+        },
+        {
+            "keyword": "comedy horror",
+            "frequency": 13
+        },
+        {
+            "keyword": "slapstick",
+            "frequency": 12
+        },
+        {
+            "keyword": "slasher",
+            "frequency": 12
+        },
+        {
+            "keyword": "devotional",
+            "frequency": 12
+        },
+        {
+            "keyword": "screwball comedy",
+            "frequency": 11
+        },
+        {
+            "keyword": "action masala",
+            "frequency": 11
+        },
+        {
+            "keyword": "disaster film",
+            "frequency": 13
+        },
+        {
+            "keyword": "romantic-comedy",
+            "frequency": 11
+        },
+        {
+            "keyword": "period drama",
+            "frequency": 11
+        },
+        {
+            "keyword": "war comedy",
+            "frequency": 10
+        },
+        {
+            "keyword": "epic",
+            "frequency": 16
+        },
+        {
+            "keyword": "disaster",
+            "frequency": 12
+        },
+        {
+            "keyword": "swashbuckler",
+            "frequency": 10
+        },
+        {
+            "keyword": "national film board animated short",
+            "frequency": 9
+        },
+        {
+            "keyword": "action-adventure",
+            "frequency": 22
+        },
+        {
+            "keyword": "thriller drama",
+            "frequency": 9
+        },
+        {
+            "keyword": "political drama",
+            "frequency": 11
+        },
+        {
+            "keyword": "wuxia",
+            "frequency": 13
+        },
+        {
+            "keyword": "comedy thriller",
+            "frequency": 9
+        },
+        {
+            "keyword": "spy thriller",
+            "frequency": 8
+        },
+        {
+            "keyword": "exploitation",
+            "frequency": 8
+        },
+        {
+            "keyword": "supernatural horror",
+            "frequency": 9
+        },
+        {
+            "keyword": "suspense thriller",
+            "frequency": 8
+        },
+        {
+            "keyword": "sexploitation",
+            "frequency": 8
+        },
+        {
+            "keyword": "parody",
+            "frequency": 10
+        },
+        {
+            "keyword": "dark comedy",
+            "frequency": 12
+        },
+        {
+            "keyword": "satire",
+            "frequency": 14
+        },
+        {
+            "keyword": "action-comedy",
+            "frequency": 10
+        },
+        {
+            "keyword": "romantic",
+            "frequency": 18
+        },
+        {
+            "keyword": "spy film",
+            "frequency": 11
+        },
+        {
+            "keyword": "action-masala",
+            "frequency": 7
+        },
+        {
+            "keyword": "short film",
+            "frequency": 7
+        },
+        {
+            "keyword": "children's film",
+            "frequency": 7
+        },
+        {
+            "keyword": "detective",
+            "frequency": 9
+        },
+        {
+            "keyword": "ero",
+            "frequency": 7
+        },
+        {
+            "keyword": "fantasy drama",
+            "frequency": 7
+        },
+        {
+            "keyword": "spy drama",
+            "frequency": 7
+        },
+        {
+            "keyword": "adult",
+            "frequency": 19
+        },
+        {
+            "keyword": "religious",
+            "frequency": 7
+        },
+        {
+            "keyword": "bio-pic",
+            "frequency": 18
+        },
+        {
+            "keyword": "anthology",
+            "frequency": 12
+        },
+        {
+            "keyword": "children",
+            "frequency": 9
+        },
+        {
+            "keyword": "african adventure",
+            "frequency": 6
+        },
+        {
+            "keyword": "love",
+            "frequency": 7
+        },
+        {
+            "keyword": "historical epic",
+            "frequency": 7
+        },
+        {
+            "keyword": "sports comedy",
+            "frequency": 6
+        },
+        {
+            "keyword": "kung fu",
+            "frequency": 9
+        },
+        {
+            "keyword": "fantasy anime",
+            "frequency": 6
+        },
+        {
+            "keyword": "spy comedy",
+            "frequency": 7
+        },
+        {
+            "keyword": "world war i",
+            "frequency": 6
+        },
+        {
+            "keyword": "fantasy thriller",
+            "frequency": 6
+        },
+        {
+            "keyword": "comedy romance",
+            "frequency": 6
+        },
+        {
+            "keyword": "psychological horror",
+            "frequency": 5
+        },
+        {
+            "keyword": "comedy western",
+            "frequency": 5
+        },
+        {
+            "keyword": "fantasy romance",
+            "frequency": 6
+        },
+        {
+            "keyword": "biker film",
+            "frequency": 5
+        },
+        {
+            "keyword": "biblical drama",
+            "frequency": 5
+        },
+        {
+            "keyword": "coming-of-age drama",
+            "frequency": 5
+        },
+        {
+            "keyword": "comedy mystery",
+            "frequency": 5
+        },
+        {
+            "keyword": "action-thriller",
+            "frequency": 5
+        },
+        {
+            "keyword": "shakespearean",
+            "frequency": 5
+        },
+        {
+            "keyword": "history",
+            "frequency": 9
+        },
+        {
+            "keyword": "political",
+            "frequency": 17
+        },
+        {
+            "keyword": "supernatural thriller",
+            "frequency": 5
+        },
+        {
+            "keyword": "science fiction comedy",
+            "frequency": 5
+        },
+        {
+            "keyword": "prison drama",
+            "frequency": 5
+        },
+        {
+            "keyword": "operetta",
+            "frequency": 5
+        },
+        {
+            "keyword": "romance musical",
+            "frequency": 5
+        },
+        {
+            "keyword": "comedy film",
+            "frequency": 6
+        },
+        {
+            "keyword": "drama film",
+            "frequency": 5
+        },
+        {
+            "keyword": "war film",
+            "frequency": 5
+        },
+        {
+            "keyword": "sword",
+            "frequency": 4
+        },
+        {
+            "keyword": "rom-com",
+            "frequency": 4
+        },
+        {
+            "keyword": "teen comedy",
+            "frequency": 4
+        },
+        {
+            "keyword": "world war ii comedy",
+            "frequency": 4
+        },
+        {
+            "keyword": "slasher film",
+            "frequency": 4
+        },
+        {
+            "keyword": "science fiction anime",
+            "frequency": 4
+        },
+        {
+            "keyword": "national film board documentary",
+            "frequency": 4
+        },
+        {
+            "keyword": "short drama",
+            "frequency": 4
+        },
+        {
+            "keyword": "erotic thriller",
+            "frequency": 4
+        },
+        {
+            "keyword": "adult comedy",
+            "frequency": 4
+        },
+        {
+            "keyword": "dance",
+            "frequency": 14
+        },
+        {
+            "keyword": "costume",
+            "frequency": 4
+        },
+        {
+            "keyword": "experimental",
+            "frequency": 4
+        },
+        {
+            "keyword": "satirical comedy",
+            "frequency": 4
+        },
+        {
+            "keyword": "gangster",
+            "frequency": 4
+        },
+        {
+            "keyword": "biblical",
+            "frequency": 4
+        },
+        {
+            "keyword": "samurai film",
+            "frequency": 4
+        },
+        {
+            "keyword": "short comedy",
+            "frequency": 4
+        },
+        {
+            "keyword": "socio-fantasy",
+            "frequency": 6
+        },
+        {
+            "keyword": "adventure serial",
+            "frequency": 4
+        },
+        {
+            "keyword": "espionage",
+            "frequency": 4
+        },
+        {
+            "keyword": "neo-noir",
+            "frequency": 6
+        },
+        {
+            "keyword": "biographical drama",
+            "frequency": 5
+        },
+        {
+            "keyword": "sci-fi horror",
+            "frequency": 4
+        },
+        {
+            "keyword": "supernatural",
+            "frequency": 7
+        },
+        {
+            "keyword": "christian",
+            "frequency": 4
+        },
+        {
+            "keyword": "yakuza",
+            "frequency": 4
+        },
+        {
+            "keyword": "comedy-thriller",
+            "frequency": 4
+        },
+        {
+            "keyword": "romance action",
+            "frequency": 4
+        },
+        {
+            "keyword": "action romance",
+            "frequency": 4
+        },
+        {
+            "keyword": "pink",
+            "frequency": 4
+        },
+        {
+            "keyword": "dramatic comedy",
+            "frequency": 4
+        },
+        {
+            "keyword": "animation adventure",
+            "frequency": 3
+        },
+        {
+            "keyword": "superhero action adventure",
+            "frequency": 3
+        },
+        {
+            "keyword": "-",
+            "frequency": 3
+        },
+        {
+            "keyword": "animation comedy",
+            "frequency": 3
+        },
+        {
+            "keyword": "costume action",
+            "frequency": 3
+        },
+        {
+            "keyword": "drama-thriller",
+            "frequency": 3
+        },
+        {
+            "keyword": "music",
+            "frequency": 4
+        },
+        {
+            "keyword": "heist",
+            "frequency": 3
+        },
+        {
+            "keyword": "anime for children",
+            "frequency": 3
+        },
+        {
+            "keyword": "sci-fi for children",
+            "frequency": 3
+        },
+        {
+            "keyword": "roman porno",
+            "frequency": 3
+        },
+        {
+            "keyword": "political satire",
+            "frequency": 3
+        },
+        {
+            "keyword": "fantasy adventure",
+            "frequency": 3
+        },
+        {
+            "keyword": "drama romance",
+            "frequency": 3
+        },
+        {
+            "keyword": "action & romance",
+            "frequency": 3
+        },
+        {
+            "keyword": "western drama",
+            "frequency": 3
+        },
+        {
+            "keyword": "anime fantasy",
+            "frequency": 3
+        },
+        {
+            "keyword": "thriller romance",
+            "frequency": 3
+        },
+        {
+            "keyword": "true crime",
+            "frequency": 3
+        },
+        {
+            "keyword": "horror drama",
+            "frequency": 3
+        },
+        {
+            "keyword": "adult film",
+            "frequency": 3
+        },
+        {
+            "keyword": "sci-fi fantasy",
+            "frequency": 3
+        },
+        {
+            "keyword": "social family",
+            "frequency": 3
+        },
+        {
+            "keyword": "sci-fi drama",
+            "frequency": 3
+        },
+        {
+            "keyword": "social romance",
+            "frequency": 3
+        },
+        {
+            "keyword": "educational",
+            "frequency": 3
+        },
+        {
+            "keyword": "animated comedy",
+            "frequency": 3
+        },
+        {
+            "keyword": "romantic fantasy",
+            "frequency": 3
+        },
+        {
+            "keyword": "romantic musical",
+            "frequency": 3
+        },
+        {
+            "keyword": "adventure drama",
+            "frequency": 3
+        },
+        {
+            "keyword": "musical fantasy",
+            "frequency": 3
+        },
+        {
+            "keyword": "family comedy",
+            "frequency": 3
+        },
+        {
+            "keyword": "nfb animated short",
+            "frequency": 3
+        },
+        {
+            "keyword": "erotic",
+            "frequency": 7
+        },
+        {
+            "keyword": "socio-political",
+            "frequency": 2
+        },
+        {
+            "keyword": "politics",
+            "frequency": 3
+        },
+        {
+            "keyword": "slapstick comedy",
+            "frequency": 2
+        },
+        {
+            "keyword": "medical thriller",
+            "frequency": 2
+        },
+        {
+            "keyword": "biopic drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "supernatural comedy",
+            "frequency": 2
+        },
+        {
+            "keyword": "drama action",
+            "frequency": 2
+        },
+        {
+            "keyword": "social thriller",
+            "frequency": 2
+        },
+        {
+            "keyword": "romantic family drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "remake",
+            "frequency": 2
+        },
+        {
+            "keyword": "super hit movie",
+            "frequency": 2
+        },
+        {
+            "keyword": "mythological",
+            "frequency": 2
+        },
+        {
+            "keyword": "fiction",
+            "frequency": 2
+        },
+        {
+            "keyword": "romance thriller",
+            "frequency": 2
+        },
+        {
+            "keyword": "period",
+            "frequency": 5
+        },
+        {
+            "keyword": "family social",
+            "frequency": 2
+        },
+        {
+            "keyword": "futuristic drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "comedy-horror",
+            "frequency": 2
+        },
+        {
+            "keyword": "children drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "zombie horror",
+            "frequency": 2
+        },
+        {
+            "keyword": "animated short co-produced with the national film board",
+            "frequency": 2
+        },
+        {
+            "keyword": "tragedy",
+            "frequency": 2
+        },
+        {
+            "keyword": "anthology film",
+            "frequency": 2
+        },
+        {
+            "keyword": "biodrama",
+            "frequency": 2
+        },
+        {
+            "keyword": "crime romance",
+            "frequency": 2
+        },
+        {
+            "keyword": "social crime",
+            "frequency": 2
+        },
+        {
+            "keyword": "science fiction film",
+            "frequency": 2
+        },
+        {
+            "keyword": "african drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "boxing drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "crime thriller romance",
+            "frequency": 2
+        },
+        {
+            "keyword": "shakespearean drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "police drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "australian western",
+            "frequency": 2
+        },
+        {
+            "keyword": "zombie comedy",
+            "frequency": 2
+        },
+        {
+            "keyword": "historical fiction",
+            "frequency": 2
+        },
+        {
+            "keyword": "romance comedy",
+            "frequency": 2
+        },
+        {
+            "keyword": "thriller comedy",
+            "frequency": 2
+        },
+        {
+            "keyword": "imdb",
+            "frequency": 2
+        },
+        {
+            "keyword": "biopic devotional",
+            "frequency": 2
+        },
+        {
+            "keyword": "romance comedy drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "romantic action",
+            "frequency": 2
+        },
+        {
+            "keyword": "gangster film",
+            "frequency": 2
+        },
+        {
+            "keyword": "children's",
+            "frequency": 2
+        },
+        {
+            "keyword": "erotic drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "costume action adventure",
+            "frequency": 2
+        },
+        {
+            "keyword": "yash raj films",
+            "frequency": 2
+        },
+        {
+            "keyword": "portmanteau horror",
+            "frequency": 2
+        },
+        {
+            "keyword": "gun fu",
+            "frequency": 2
+        },
+        {
+            "keyword": "gangster drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "social satire",
+            "frequency": 2
+        },
+        {
+            "keyword": "family romance",
+            "frequency": 2
+        },
+        {
+            "keyword": "biker",
+            "frequency": 2
+        },
+        {
+            "keyword": "spy serial",
+            "frequency": 2
+        },
+        {
+            "keyword": "propaganda short",
+            "frequency": 2
+        },
+        {
+            "keyword": "detective fiction",
+            "frequency": 2
+        },
+        {
+            "keyword": "j-horror",
+            "frequency": 2
+        },
+        {
+            "keyword": "historical film",
+            "frequency": 2
+        },
+        {
+            "keyword": "charlie chan",
+            "frequency": 2
+        },
+        {
+            "keyword": "blaxploitation",
+            "frequency": 2
+        },
+        {
+            "keyword": "musical romance",
+            "frequency": 2
+        },
+        {
+            "keyword": "science fiction thriller",
+            "frequency": 2
+        },
+        {
+            "keyword": "legal drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "western serial",
+            "frequency": 2
+        },
+        {
+            "keyword": "christian drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "action western",
+            "frequency": 2
+        },
+        {
+            "keyword": "action & love",
+            "frequency": 2
+        },
+        {
+            "keyword": "sports (shogi",
+            "frequency": 2
+        },
+        {
+            "keyword": "animated musical",
+            "frequency": 2
+        },
+        {
+            "keyword": "avant-garde",
+            "frequency": 6
+        },
+        {
+            "keyword": "p.o.w.",
+            "frequency": 2
+        },
+        {
+            "keyword": "kaiju eiga",
+            "frequency": 2
+        },
+        {
+            "keyword": "jidaigeki",
+            "frequency": 2
+        },
+        {
+            "keyword": "chambara",
+            "frequency": 2
+        },
+        {
+            "keyword": "samurai",
+            "frequency": 2
+        },
+        {
+            "keyword": "war romance",
+            "frequency": 2
+        },
+        {
+            "keyword": "buddy cop",
+            "frequency": 4
+        },
+        {
+            "keyword": "action for children",
+            "frequency": 2
+        },
+        {
+            "keyword": "nature documentary",
+            "frequency": 2
+        },
+        {
+            "keyword": "action - romance",
+            "frequency": 2
+        },
+        {
+            "keyword": "drama[not in citation given]",
+            "frequency": 2
+        },
+        {
+            "keyword": "fairy tale",
+            "frequency": 2
+        },
+        {
+            "keyword": "murder mystery",
+            "frequency": 2
+        },
+        {
+            "keyword": "comedy action",
+            "frequency": 2
+        },
+        {
+            "keyword": "teen",
+            "frequency": 4
+        },
+        {
+            "keyword": "road thriller",
+            "frequency": 2
+        },
+        {
+            "keyword": "musical biography",
+            "frequency": 2
+        },
+        {
+            "keyword": "historical biopic",
+            "frequency": 2
+        },
+        {
+            "keyword": "family adventure",
+            "frequency": 2
+        },
+        {
+            "keyword": "historical comedy",
+            "frequency": 3
+        },
+        {
+            "keyword": "adult drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "crime fiction",
+            "frequency": 1
+        },
+        {
+            "keyword": "nadeem-shravan",
+            "frequency": 1
+        },
+        {
+            "keyword": "sport",
+            "frequency": 3
+        },
+        {
+            "keyword": "d. ramanaidu",
+            "frequency": 1
+        },
+        {
+            "keyword": "family drama social",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy romance drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical romantic drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance suspense",
+            "frequency": 1
+        },
+        {
+            "keyword": "legend romance musical",
+            "frequency": 1
+        },
+        {
+            "keyword": "swashbuckling musical romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "romantic melodrama",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance - 1 girl & 3 suitors",
+            "frequency": 1
+        },
+        {
+            "keyword": "reincarnation suspense thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "action crime thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "social family romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "romantic drama social",
+            "frequency": 1
+        },
+        {
+            "keyword": "romantic drama triangle",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama romance musical",
+            "frequency": 1
+        },
+        {
+            "keyword": "social biopic",
+            "frequency": 1
+        },
+        {
+            "keyword": "war family drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "social children",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance action drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "costume fantasy",
+            "frequency": 1
+        },
+        {
+            "keyword": "social comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy family",
+            "frequency": 1
+        },
+        {
+            "keyword": "social action",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance social",
+            "frequency": 1
+        },
+        {
+            "keyword": "musical thriller drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "crime suspense romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "costume social drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "crime social drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "tragedy drama romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "muslim social",
+            "frequency": 1
+        },
+        {
+            "keyword": "double-role action drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "children's science fiction",
+            "frequency": 1
+        },
+        {
+            "keyword": "coming of age",
+            "frequency": 1
+        },
+        {
+            "keyword": "olga khokhlova",
+            "frequency": 1
+        },
+        {
+            "keyword": "horror drama comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "sport film",
+            "frequency": 1
+        },
+        {
+            "keyword": "family social drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical epic drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "biopic legend devotional",
+            "frequency": 1
+        },
+        {
+            "keyword": "romantic social drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "period costume",
+            "frequency": 1
+        },
+        {
+            "keyword": "adventure action comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "social romance musical",
+            "frequency": 1
+        },
+        {
+            "keyword": "mythology legend",
+            "frequency": 1
+        },
+        {
+            "keyword": "devotional horror",
+            "frequency": 1
+        },
+        {
+            "keyword": "dark slasher",
+            "frequency": 1
+        },
+        {
+            "keyword": "devotional biopic",
+            "frequency": 1
+        },
+        {
+            "keyword": "sport drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical fantasy",
+            "frequency": 1
+        },
+        {
+            "keyword": "yash dasgupta",
+            "frequency": 1
+        },
+        {
+            "keyword": "dev",
+            "frequency": 1
+        },
+        {
+            "keyword": "jeet",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama action adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance thriller drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "suspense romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "family romance action",
+            "frequency": 1
+        },
+        {
+            "keyword": "action mystery thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "reincarnation drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance suspense thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "social romantic melodrama",
+            "frequency": 1
+        },
+        {
+            "keyword": "romantic fantasy drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "harem",
+            "frequency": 1
+        },
+        {
+            "keyword": "romantic spy drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy family drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "social children drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance drama war",
+            "frequency": 1
+        },
+        {
+            "keyword": "social satire drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical costume romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "crime social romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "family comedy romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama social",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance social drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "social drama romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "biographical patriotic drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "action fantasy",
+            "frequency": 1
+        },
+        {
+            "keyword": "reincarnation romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "thriller action romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "fantasy costume",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama family",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama family romance war",
+            "frequency": 1
+        },
+        {
+            "keyword": "family melodrama",
+            "frequency": 1
+        },
+        {
+            "keyword": "social romantic drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "social crime drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "revolutionary patriotic",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical romantic-fiction drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "children adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "romantic muslim social",
+            "frequency": 1
+        },
+        {
+            "keyword": "classic muslim social",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance crime drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "romantic triangle",
+            "frequency": 1
+        },
+        {
+            "keyword": "family drama romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "biopic historical drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "stoner film",
+            "frequency": 1
+        },
+        {
+            "keyword": "road movie",
+            "frequency": 1
+        },
+        {
+            "keyword": "psychological thriller film",
+            "frequency": 1
+        },
+        {
+            "keyword": "mythology (fiction)",
+            "frequency": 1
+        },
+        {
+            "keyword": "investigative",
+            "frequency": 1
+        },
+        {
+            "keyword": "revenge",
+            "frequency": 1
+        },
+        {
+            "keyword": "art",
+            "frequency": 1
+        },
+        {
+            "keyword": "action entertainer",
+            "frequency": 1
+        },
+        {
+            "keyword": "[140]",
+            "frequency": 1
+        },
+        {
+            "keyword": "[144]",
+            "frequency": 1
+        },
+        {
+            "keyword": "yogesh dattatraya gosavi's directorial debut. [9]",
+            "frequency": 1
+        },
+        {
+            "keyword": "campus thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "campus drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "biju menon",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy romantic thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "thriller travelogue",
+            "frequency": 1
+        },
+        {
+            "keyword": "srikanth",
+            "frequency": 3
+        },
+        {
+            "keyword": "period thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "psycho thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedey",
+            "frequency": 1
+        },
+        {
+            "keyword": "horror \u2013 thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "action - war",
+            "frequency": 1
+        },
+        {
+            "keyword": "satire drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "satire - thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "action-love",
+            "frequency": 1
+        },
+        {
+            "keyword": "mystery thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "horror - thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy - thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance - thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "action; drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "period romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance-action",
+            "frequency": 1
+        },
+        {
+            "keyword": "action - thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "action & comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "family (artistic)",
+            "frequency": 1
+        },
+        {
+            "keyword": "patriotism",
+            "frequency": 2
+        },
+        {
+            "keyword": "devotional biography",
+            "frequency": 1
+        },
+        {
+            "keyword": "youth",
+            "frequency": 2
+        },
+        {
+            "keyword": "campus",
+            "frequency": 1
+        },
+        {
+            "keyword": "patriotic",
+            "frequency": 1
+        },
+        {
+            "keyword": "adult romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "psychological action thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "epic-historical film",
+            "frequency": 1
+        },
+        {
+            "keyword": "experimental film",
+            "frequency": 1
+        },
+        {
+            "keyword": "vigilante",
+            "frequency": 1
+        },
+        {
+            "keyword": "fantasy-children's film",
+            "frequency": 1
+        },
+        {
+            "keyword": "mohanlal",
+            "frequency": 1
+        },
+        {
+            "keyword": "allari naresh",
+            "frequency": 2
+        },
+        {
+            "keyword": "sumanth",
+            "frequency": 2
+        },
+        {
+            "keyword": "romanctic drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "fantasy horror",
+            "frequency": 1
+        },
+        {
+            "keyword": "rajiv kanakala",
+            "frequency": 1
+        },
+        {
+            "keyword": "science-fiction comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy masala",
+            "frequency": 1
+        },
+        {
+            "keyword": "ravi teja",
+            "frequency": 3
+        },
+        {
+            "keyword": "sci-fi romantic thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "buddy film",
+            "frequency": 1
+        },
+        {
+            "keyword": "mob",
+            "frequency": 2
+        },
+        {
+            "keyword": "heist-comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "ajay",
+            "frequency": 1
+        },
+        {
+            "keyword": "jr. ntr",
+            "frequency": 2
+        },
+        {
+            "keyword": "suhasini",
+            "frequency": 1
+        },
+        {
+            "keyword": "siddharth",
+            "frequency": 1
+        },
+        {
+            "keyword": "fantasy-period",
+            "frequency": 1
+        },
+        {
+            "keyword": "horror masala",
+            "frequency": 1
+        },
+        {
+            "keyword": "fantasy adventure comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "priyadarshini ram",
+            "frequency": 1
+        },
+        {
+            "keyword": "pawan kalyan",
+            "frequency": 2
+        },
+        {
+            "keyword": "kalyan ram",
+            "frequency": 1
+        },
+        {
+            "keyword": "siddharth narayan",
+            "frequency": 1
+        },
+        {
+            "keyword": "raghava lawrence",
+            "frequency": 1
+        },
+        {
+            "keyword": "ram",
+            "frequency": 1
+        },
+        {
+            "keyword": "stylish",
+            "frequency": 1
+        },
+        {
+            "keyword": "rajasekhar",
+            "frequency": 1
+        },
+        {
+            "keyword": "fantasy and comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "biographical fim",
+            "frequency": 1
+        },
+        {
+            "keyword": "romantic musical film",
+            "frequency": 1
+        },
+        {
+            "keyword": "prabhas",
+            "frequency": 1
+        },
+        {
+            "keyword": "chakravarthy musical hit",
+            "frequency": 1
+        },
+        {
+            "keyword": "cowboy",
+            "frequency": 1
+        },
+        {
+            "keyword": "mahesh babu",
+            "frequency": 1
+        },
+        {
+            "keyword": "famil drama",
+            "frequency": 2
+        },
+        {
+            "keyword": "sunil",
+            "frequency": 1
+        },
+        {
+            "keyword": "fantasy comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "mohit ahlawat",
+            "frequency": 1
+        },
+        {
+            "keyword": "perodic",
+            "frequency": 1
+        },
+        {
+            "keyword": "romanctic comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "action romantic",
+            "frequency": 1
+        },
+        {
+            "keyword": "critically acclaimed",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance film",
+            "frequency": 1
+        },
+        {
+            "keyword": "uday kiran",
+            "frequency": 1
+        },
+        {
+            "keyword": "balakrishna nandamuri",
+            "frequency": 1
+        },
+        {
+            "keyword": "romcom",
+            "frequency": 1
+        },
+        {
+            "keyword": "mystery adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "raja",
+            "frequency": 1
+        },
+        {
+            "keyword": "chiranjeevi",
+            "frequency": 1
+        },
+        {
+            "keyword": "bharath",
+            "frequency": 1
+        },
+        {
+            "keyword": "indira amperiani",
+            "frequency": 1
+        },
+        {
+            "keyword": "nagarjuna",
+            "frequency": 1
+        },
+        {
+            "keyword": "action (film genre)",
+            "frequency": 1
+        },
+        {
+            "keyword": "gangster-thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "period piece",
+            "frequency": 2
+        },
+        {
+            "keyword": "action\u2014masala",
+            "frequency": 1
+        },
+        {
+            "keyword": "action-masala film",
+            "frequency": 1
+        },
+        {
+            "keyword": "action-drama film",
+            "frequency": 1
+        },
+        {
+            "keyword": "sivaji",
+            "frequency": 1
+        },
+        {
+            "keyword": "action - superhero",
+            "frequency": 1
+        },
+        {
+            "keyword": "rajendra prasad",
+            "frequency": 1
+        },
+        {
+            "keyword": "gangster thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "love story",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama-comedy-social",
+            "frequency": 1
+        },
+        {
+            "keyword": "dystopia",
+            "frequency": 1
+        },
+        {
+            "keyword": "superheroes",
+            "frequency": 1
+        },
+        {
+            "keyword": "found footage",
+            "frequency": 2
+        },
+        {
+            "keyword": "epic film",
+            "frequency": 1
+        },
+        {
+            "keyword": "vampire film",
+            "frequency": 1
+        },
+        {
+            "keyword": "anime science fiction",
+            "frequency": 1
+        },
+        {
+            "keyword": "youth drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical anime",
+            "frequency": 1
+        },
+        {
+            "keyword": "youth music drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy road movie",
+            "frequency": 1
+        },
+        {
+            "keyword": "anime drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "splatter comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "yeh saali zindagi",
+            "frequency": 1
+        },
+        {
+            "keyword": "anime action adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "suspense action horror",
+            "frequency": 1
+        },
+        {
+            "keyword": "sports (road bicycle racing)",
+            "frequency": 1
+        },
+        {
+            "keyword": "arjun",
+            "frequency": 1
+        },
+        {
+            "keyword": "school",
+            "frequency": 2
+        },
+        {
+            "keyword": "thriler",
+            "frequency": 1
+        },
+        {
+            "keyword": "teen fantasy drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "costume martial arts",
+            "frequency": 1
+        },
+        {
+            "keyword": "period film",
+            "frequency": 1
+        },
+        {
+            "keyword": "war drama[not in citation given]",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy[not in citation given]",
+            "frequency": 1
+        },
+        {
+            "keyword": "science fiction[not in citation given]",
+            "frequency": 1
+        },
+        {
+            "keyword": "erotic film",
+            "frequency": 1
+        },
+        {
+            "keyword": "jidai-geki",
+            "frequency": 1
+        },
+        {
+            "keyword": "chanbara",
+            "frequency": 1
+        },
+        {
+            "keyword": "mocatsu",
+            "frequency": 1
+        },
+        {
+            "keyword": "action - comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "anime war drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "docufiction drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "keiji",
+            "frequency": 1
+        },
+        {
+            "keyword": "erotica",
+            "frequency": 1
+        },
+        {
+            "keyword": "silent hills studio",
+            "frequency": 1
+        },
+        {
+            "keyword": "k9 films",
+            "frequency": 1
+        },
+        {
+            "keyword": "devotional-biographical",
+            "frequency": 1
+        },
+        {
+            "keyword": "inspired by true event",
+            "frequency": 1
+        },
+        {
+            "keyword": "dharma productions",
+            "frequency": 1
+        },
+        {
+            "keyword": "biographic",
+            "frequency": 1
+        },
+        {
+            "keyword": "bholenath movies & cinekorn entertainment",
+            "frequency": 1
+        },
+        {
+            "keyword": "viacom 18 motion pictures",
+            "frequency": 1
+        },
+        {
+            "keyword": "colour yellow productions & eros international",
+            "frequency": 1
+        },
+        {
+            "keyword": "movies by the mob & knkspl",
+            "frequency": 1
+        },
+        {
+            "keyword": "bbc films",
+            "frequency": 1
+        },
+        {
+            "keyword": "sex",
+            "frequency": 1
+        },
+        {
+            "keyword": "sci-fi thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "panorama studios",
+            "frequency": 1
+        },
+        {
+            "keyword": "political crime thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "horror film",
+            "frequency": 1
+        },
+        {
+            "keyword": "tokusatsu v-cinema",
+            "frequency": 1
+        },
+        {
+            "keyword": "computer animation",
+            "frequency": 1
+        },
+        {
+            "keyword": "erotic horror",
+            "frequency": 1
+        },
+        {
+            "keyword": "computer-animated",
+            "frequency": 1
+        },
+        {
+            "keyword": "ken'ichi maysuyama",
+            "frequency": 1
+        },
+        {
+            "keyword": "gore film",
+            "frequency": 1
+        },
+        {
+            "keyword": "splatter",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance comedy crime",
+            "frequency": 1
+        },
+        {
+            "keyword": "gangster black comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "magical girl",
+            "frequency": 1
+        },
+        {
+            "keyword": "computer animated",
+            "frequency": 1
+        },
+        {
+            "keyword": "anime martial arts",
+            "frequency": 1
+        },
+        {
+            "keyword": "anime drama mystery fantasy",
+            "frequency": 1
+        },
+        {
+            "keyword": "yakuza film",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy drama anime",
+            "frequency": 1
+        },
+        {
+            "keyword": "tapas paul",
+            "frequency": 1
+        },
+        {
+            "keyword": "slahser",
+            "frequency": 1
+        },
+        {
+            "keyword": "boxing",
+            "frequency": 1
+        },
+        {
+            "keyword": "survival",
+            "frequency": 1
+        },
+        {
+            "keyword": "horror-thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "biographical comedy-drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "adventure-comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "adventure thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "action adventure science fiction",
+            "frequency": 1
+        },
+        {
+            "keyword": "crime comedy-drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "adventure science fiction",
+            "frequency": 1
+        },
+        {
+            "keyword": "science fiction mystery",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama horror thriller film",
+            "frequency": 1
+        },
+        {
+            "keyword": "science fiction psychological thriller",
+            "frequency": 2
+        },
+        {
+            "keyword": "romantic comedy-drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "animated adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "animation fantasy",
+            "frequency": 1
+        },
+        {
+            "keyword": "fantasy-comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "biographical political thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "concert",
+            "frequency": 2
+        },
+        {
+            "keyword": "sci-fi western",
+            "frequency": 1
+        },
+        {
+            "keyword": "spoof",
+            "frequency": 1
+        },
+        {
+            "keyword": "western thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "animation martial arts action-comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "surf",
+            "frequency": 1
+        },
+        {
+            "keyword": "mystery drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "short documentary",
+            "frequency": 1
+        },
+        {
+            "keyword": "usa",
+            "frequency": 2
+        },
+        {
+            "keyword": "fantasy action",
+            "frequency": 1
+        },
+        {
+            "keyword": "post-apocalyptic",
+            "frequency": 1
+        },
+        {
+            "keyword": "reese witherspoon scarlett johansson",
+            "frequency": 1
+        },
+        {
+            "keyword": "auli'i cravalho dwayne johnson",
+            "frequency": 1
+        },
+        {
+            "keyword": "crime dramedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "action adventure thriller spy",
+            "frequency": 1
+        },
+        {
+            "keyword": "science fiction action adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "social science fiction action",
+            "frequency": 1
+        },
+        {
+            "keyword": "mockumentary comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "science fiction action-comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "fantasy action adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "science fiction action",
+            "frequency": 1
+        },
+        {
+            "keyword": "science fiction drama supernatural",
+            "frequency": 1
+        },
+        {
+            "keyword": "science fiction adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance dramedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "action horror",
+            "frequency": 1
+        },
+        {
+            "keyword": "cartoon short",
+            "frequency": 1
+        },
+        {
+            "keyword": "warner bros. biography",
+            "frequency": 1
+        },
+        {
+            "keyword": "united artists. biography",
+            "frequency": 1
+        },
+        {
+            "keyword": "paramount. biblical epic",
+            "frequency": 1
+        },
+        {
+            "keyword": "warner bros. drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "adventures",
+            "frequency": 1
+        },
+        {
+            "keyword": "sports biopic",
+            "frequency": 1
+        },
+        {
+            "keyword": "cold war",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy\u2013horror",
+            "frequency": 1
+        },
+        {
+            "keyword": "historic",
+            "frequency": 1
+        },
+        {
+            "keyword": "nature",
+            "frequency": 1
+        },
+        {
+            "keyword": "war biography",
+            "frequency": 1
+        },
+        {
+            "keyword": "crime mystery",
+            "frequency": 1
+        },
+        {
+            "keyword": "war propaganda",
+            "frequency": 1
+        },
+        {
+            "keyword": "war short",
+            "frequency": 1
+        },
+        {
+            "keyword": "war drama propaganda",
+            "frequency": 1
+        },
+        {
+            "keyword": "epic western",
+            "frequency": 1
+        },
+        {
+            "keyword": "spy spoof",
+            "frequency": 1
+        },
+        {
+            "keyword": "biker drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "outlaw biker film",
+            "frequency": 1
+        },
+        {
+            "keyword": "experimental short",
+            "frequency": 1
+        },
+        {
+            "keyword": "stop-motion animation",
+            "frequency": 1
+        },
+        {
+            "keyword": "compilation",
+            "frequency": 1
+        },
+        {
+            "keyword": "pow comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "spy anthology",
+            "frequency": 1
+        },
+        {
+            "keyword": "horror musical",
+            "frequency": 1
+        },
+        {
+            "keyword": "travel",
+            "frequency": 1
+        },
+        {
+            "keyword": "erotic comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "musical\u2013comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy 2-reeler",
+            "frequency": 1
+        },
+        {
+            "keyword": "musical western",
+            "frequency": 1
+        },
+        {
+            "keyword": "adventure horror",
+            "frequency": 1
+        },
+        {
+            "keyword": "adventure film",
+            "frequency": 1
+        },
+        {
+            "keyword": "romantic crime",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "race film",
+            "frequency": 1
+        },
+        {
+            "keyword": "semi-staged documentary",
+            "frequency": 1
+        },
+        {
+            "keyword": "american football",
+            "frequency": 1
+        },
+        {
+            "keyword": "animated series",
+            "frequency": 1
+        },
+        {
+            "keyword": "ww1 propaganda",
+            "frequency": 1
+        },
+        {
+            "keyword": "sexual hygiene",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy\u2013drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "documentary drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "silent sports",
+            "frequency": 1
+        },
+        {
+            "keyword": "short fantasy",
+            "frequency": 1
+        },
+        {
+            "keyword": "short action",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama anthology",
+            "frequency": 1
+        },
+        {
+            "keyword": "military romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "musical bio-pic",
+            "frequency": 1
+        },
+        {
+            "keyword": "propaganda short animated short",
+            "frequency": 1
+        },
+        {
+            "keyword": "war documentary",
+            "frequency": 1
+        },
+        {
+            "keyword": "short animation",
+            "frequency": 1
+        },
+        {
+            "keyword": "musical biopic",
+            "frequency": 1
+        },
+        {
+            "keyword": "crime musical",
+            "frequency": 1
+        },
+        {
+            "keyword": "aviation",
+            "frequency": 1
+        },
+        {
+            "keyword": "cartoon",
+            "frequency": 1
+        },
+        {
+            "keyword": "race",
+            "frequency": 1
+        },
+        {
+            "keyword": "western musical",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama war",
+            "frequency": 1
+        },
+        {
+            "keyword": "science fiction horror",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy spy",
+            "frequency": 1
+        },
+        {
+            "keyword": "war spy",
+            "frequency": 1
+        },
+        {
+            "keyword": "epic drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "mystery comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "western romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "erotic musical",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance-horror",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "lgbt-themed comedy-drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "horror\u2013thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "action film",
+            "frequency": 2
+        },
+        {
+            "keyword": "live-action",
+            "frequency": 1
+        },
+        {
+            "keyword": "clay animation",
+            "frequency": 1
+        },
+        {
+            "keyword": "family. drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "horror and priquitianism",
+            "frequency": 1
+        },
+        {
+            "keyword": "cult film",
+            "frequency": 1
+        },
+        {
+            "keyword": "sci-fi action",
+            "frequency": 1
+        },
+        {
+            "keyword": "16\u00a0mm film",
+            "frequency": 1
+        },
+        {
+            "keyword": "superhero film",
+            "frequency": 1
+        },
+        {
+            "keyword": "imax",
+            "frequency": 1
+        },
+        {
+            "keyword": "student film",
+            "frequency": 1
+        },
+        {
+            "keyword": "biogtaphy",
+            "frequency": 1
+        },
+        {
+            "keyword": "animation comedy family",
+            "frequency": 1
+        },
+        {
+            "keyword": "reality",
+            "frequency": 1
+        },
+        {
+            "keyword": "independent",
+            "frequency": 1
+        },
+        {
+            "keyword": "space opera",
+            "frequency": 1
+        },
+        {
+            "keyword": "superhero comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "adapted from the play by alexandre goyette",
+            "frequency": 1
+        },
+        {
+            "keyword": "martial art drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "costume comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "lgbt-themed drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "science fiction lgbt-related drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama-comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "lgbt",
+            "frequency": 1
+        },
+        {
+            "keyword": "animated feature produced with the national film board of canada",
+            "frequency": 1
+        },
+        {
+            "keyword": "documentary short",
+            "frequency": 1
+        },
+        {
+            "keyword": "ancient-costume",
+            "frequency": 1
+        },
+        {
+            "keyword": "martial art",
+            "frequency": 1
+        },
+        {
+            "keyword": "physiological thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "martial arts comedy film",
+            "frequency": 1
+        },
+        {
+            "keyword": "yuen lai-kei",
+            "frequency": 1
+        },
+        {
+            "keyword": "lee sin-je",
+            "frequency": 1
+        },
+        {
+            "keyword": "triad",
+            "frequency": 1
+        },
+        {
+            "keyword": "sci-fi romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "romance; drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "teen romance",
+            "frequency": 2
+        },
+        {
+            "keyword": "teen romantic comedy-drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "bruceploitation",
+            "frequency": 1
+        },
+        {
+            "keyword": "kung fu action drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "thai boxing drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "kung fu triad",
+            "frequency": 1
+        },
+        {
+            "keyword": "kung-fu",
+            "frequency": 1
+        },
+        {
+            "keyword": "huangmei opera",
+            "frequency": 1
+        },
+        {
+            "keyword": "political comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "duology",
+            "frequency": 1
+        },
+        {
+            "keyword": "martial arts film",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy fantasy",
+            "frequency": 1
+        },
+        {
+            "keyword": "conspiracy thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama based on a novel and screenplay by emma donoghue",
+            "frequency": 1
+        },
+        {
+            "keyword": "post-apocalyptic science fiction",
+            "frequency": 1
+        },
+        {
+            "keyword": "counterculture",
+            "frequency": 1
+        },
+        {
+            "keyword": "british-german co-production",
+            "frequency": 1
+        },
+        {
+            "keyword": "psy thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "prehistoric adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "war-comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "world war i drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "spy comedy thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "colonial adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "world war ii drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "detective drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "sci-fi mystery",
+            "frequency": 1
+        },
+        {
+            "keyword": "world war ii action",
+            "frequency": 1
+        },
+        {
+            "keyword": "horror spoof",
+            "frequency": 1
+        },
+        {
+            "keyword": "dramatic biography",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical crime",
+            "frequency": 1
+        },
+        {
+            "keyword": "animated fantasy",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedic drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "surreal comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "sexual drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "crime biopic",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical horror",
+            "frequency": 1
+        },
+        {
+            "keyword": "rock musical",
+            "frequency": 1
+        },
+        {
+            "keyword": "animated drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "occult drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "punk",
+            "frequency": 1
+        },
+        {
+            "keyword": "sci fi",
+            "frequency": 1
+        },
+        {
+            "keyword": "musical b",
+            "frequency": 1
+        },
+        {
+            "keyword": "teen drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "liberation war",
+            "frequency": 1
+        },
+        {
+            "keyword": "documentary film",
+            "frequency": 1
+        },
+        {
+            "keyword": "biographical war film",
+            "frequency": 1
+        },
+        {
+            "keyword": "apocalyptic thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "biography drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "animation drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "pseudo-documentary",
+            "frequency": 1
+        },
+        {
+            "keyword": "supernatural action",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy short film",
+            "frequency": 1
+        },
+        {
+            "keyword": "animation musical",
+            "frequency": 1
+        },
+        {
+            "keyword": "biography crime",
+            "frequency": 1
+        },
+        {
+            "keyword": "thriller action",
+            "frequency": 1
+        },
+        {
+            "keyword": "chanchal chowdhury masuma rahman nabila partha barua",
+            "frequency": 1
+        },
+        {
+            "keyword": "korean war",
+            "frequency": 1
+        },
+        {
+            "keyword": "literary adaptation",
+            "frequency": 1
+        },
+        {
+            "keyword": "malyana emergency adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama documentary",
+            "frequency": 1
+        },
+        {
+            "keyword": "south african western",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy based on comic strip",
+            "frequency": 1
+        },
+        {
+            "keyword": "action based on radio serial",
+            "frequency": 1
+        },
+        {
+            "keyword": "short mystery",
+            "frequency": 1
+        },
+        {
+            "keyword": "world war ii drama documentary",
+            "frequency": 1
+        },
+        {
+            "keyword": "world war ii documentary",
+            "frequency": 1
+        },
+        {
+            "keyword": "romantic adventure",
+            "frequency": 1
+        },
+        {
+            "keyword": "spy action",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical dram",
+            "frequency": 1
+        },
+        {
+            "keyword": "dance drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "sexual",
+            "frequency": 1
+        },
+        {
+            "keyword": "crime melodrama",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama based on the novel by margaret laurence",
+            "frequency": 1
+        },
+        {
+            "keyword": "national film board stop motion animated short",
+            "frequency": 1
+        },
+        {
+            "keyword": "interactive cinema",
+            "frequency": 1
+        },
+        {
+            "keyword": "wwii drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "western-comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "biodrama about montreal canadiens star",
+            "frequency": 1
+        },
+        {
+            "keyword": "aids drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama loosely based on oliver twist",
+            "frequency": 1
+        },
+        {
+            "keyword": "animated feature co-produced with the national film board",
+            "frequency": 1
+        },
+        {
+            "keyword": "surreal drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "biodrama on alice robitaille",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical biodrama on the early years of hitler",
+            "frequency": 1
+        },
+        {
+            "keyword": "short black comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "dance film",
+            "frequency": 1
+        },
+        {
+            "keyword": "inuit drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "immigrant family drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama based on into the forest by jean hegland",
+            "frequency": 1
+        },
+        {
+            "keyword": "afghan war drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "biopic of pioneering american photographer eadweard muybridge",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical romance based on colm t\u00f3ib\u00edn's novel of the same name.",
+            "frequency": 1
+        },
+        {
+            "keyword": "crime-thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical-disaster romance",
+            "frequency": 1
+        },
+        {
+            "keyword": "animated short produced with the national film board",
+            "frequency": 1
+        },
+        {
+            "keyword": "sf",
+            "frequency": 1
+        },
+        {
+            "keyword": "adaptation of a play by michel marc bouchard",
+            "frequency": 1
+        },
+        {
+            "keyword": "action-adventure science fantasy",
+            "frequency": 1
+        },
+        {
+            "keyword": "animated feature in 3d",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama about child soldiers",
+            "frequency": 1
+        },
+        {
+            "keyword": "vampire",
+            "frequency": 1
+        },
+        {
+            "keyword": "hockey drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama adapted from wajdi mouawad's play of the same name",
+            "frequency": 1
+        },
+        {
+            "keyword": "stop-motion animation produced with the national film board and warner home video",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy-drama adaptation of the mordecai richler novel",
+            "frequency": 1
+        },
+        {
+            "keyword": "coming of age drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "epic drama set 4",
+            "frequency": 1
+        },
+        {
+            "keyword": "tv miniseries",
+            "frequency": 2
+        },
+        {
+            "keyword": "summer camp comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "crime drama based on a true story",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama based on the novel by stephen vizinczey",
+            "frequency": 1
+        },
+        {
+            "keyword": "august 25",
+            "frequency": 1
+        },
+        {
+            "keyword": "animation-drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "urban thriller",
+            "frequency": 1
+        },
+        {
+            "keyword": "adventure fantasy",
+            "frequency": 1
+        },
+        {
+            "keyword": "comedy sci-fi",
+            "frequency": 1
+        },
+        {
+            "keyword": "coming-of-age",
+            "frequency": 1
+        },
+        {
+            "keyword": "period comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "tragic comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "family comedy-drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "holocaust melodrama",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama based on the play by bernard slade",
+            "frequency": 1
+        },
+        {
+            "keyword": "sci-fi exploitation",
+            "frequency": 1
+        },
+        {
+            "keyword": "religious drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama based on the novel by rohinton mistry",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama based on the novel by russell banks;",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama adapted from the play by michel-marc bouchard",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama based on the novel by j.g. ballard",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama co-produced with the national film board",
+            "frequency": 1
+        },
+        {
+            "keyword": "historical costume drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "wartime drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "kung-fu film",
+            "frequency": 1
+        },
+        {
+            "keyword": "television drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "medical drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "time-travelling comedy",
+            "frequency": 1
+        },
+        {
+            "keyword": "modern day passion play",
+            "frequency": 1
+        },
+        {
+            "keyword": "war-time romance melodrama",
+            "frequency": 1
+        },
+        {
+            "keyword": "gothic mystery",
+            "frequency": 1
+        },
+        {
+            "keyword": "drama co-produced by the national film board",
+            "frequency": 1
+        },
+        {
+            "keyword": "feature animation",
+            "frequency": 1
+        },
+        {
+            "keyword": "cbc-tv miniseries",
+            "frequency": 1
+        },
+        {
+            "keyword": "bio-drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "national film board docudrama",
+            "frequency": 1
+        },
+        {
+            "keyword": "cult drama",
+            "frequency": 1
+        },
+        {
+            "keyword": "horror romantic comedy",
+            "frequency": 1
+        }
+    ]
+}

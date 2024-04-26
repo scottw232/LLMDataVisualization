@@ -1,0 +1,471 @@
+{
+    "nodes": [
+        {
+            "id": "wedding",
+            "frequency": 5
+        },
+        {
+            "id": "father",
+            "frequency": 4
+        },
+        {
+            "id": "job",
+            "frequency": 4
+        },
+        {
+            "id": "relationship",
+            "frequency": 3
+        },
+        {
+            "id": "friends",
+            "frequency": 3
+        },
+        {
+            "id": "women",
+            "frequency": 3
+        },
+        {
+            "id": "copy",
+            "frequency": 2
+        },
+        {
+            "id": "book",
+            "frequency": 2
+        },
+        {
+            "id": "families",
+            "frequency": 2
+        },
+        {
+            "id": "baby",
+            "frequency": 2
+        },
+        {
+            "id": "son",
+            "frequency": 2
+        },
+        {
+            "id": "life",
+            "frequency": 2
+        },
+        {
+            "id": "men",
+            "frequency": 2
+        },
+        {
+            "id": "later",
+            "frequency": 2
+        },
+        {
+            "id": "wife",
+            "frequency": 2
+        },
+        {
+            "id": "family",
+            "frequency": 2
+        },
+        {
+            "id": "tries",
+            "frequency": 2
+        },
+        {
+            "id": "band",
+            "frequency": 2
+        },
+        {
+            "id": "prison",
+            "frequency": 2
+        },
+        {
+            "id": "chef",
+            "frequency": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "friends",
+            "target": "later",
+            "weight": 23
+        },
+        {
+            "source": "book",
+            "target": "later",
+            "weight": 35
+        },
+        {
+            "source": "father",
+            "target": "wedding",
+            "weight": 12
+        },
+        {
+            "source": "life",
+            "target": "women",
+            "weight": 7
+        },
+        {
+            "source": "copy",
+            "target": "life",
+            "weight": 4
+        },
+        {
+            "source": "copy",
+            "target": "father",
+            "weight": 21
+        },
+        {
+            "source": "father",
+            "target": "relationship",
+            "weight": 19
+        },
+        {
+            "source": "job",
+            "target": "relationship",
+            "weight": 6
+        },
+        {
+            "source": "book",
+            "target": "life",
+            "weight": 8
+        },
+        {
+            "source": "later",
+            "target": "life",
+            "weight": 33
+        },
+        {
+            "source": "copy",
+            "target": "later",
+            "weight": 9
+        },
+        {
+            "source": "book",
+            "target": "copy",
+            "weight": 6
+        },
+        {
+            "source": "book",
+            "target": "father",
+            "weight": 2
+        },
+        {
+            "source": "families",
+            "target": "father",
+            "weight": 6
+        },
+        {
+            "source": "baby",
+            "target": "later",
+            "weight": 3
+        },
+        {
+            "source": "baby",
+            "target": "families",
+            "weight": 12
+        },
+        {
+            "source": "son",
+            "target": "wife",
+            "weight": 2
+        },
+        {
+            "source": "relationship",
+            "target": "son",
+            "weight": 25
+        },
+        {
+            "source": "relationship",
+            "target": "wife",
+            "weight": 24
+        },
+        {
+            "source": "later",
+            "target": "relationship",
+            "weight": 22
+        },
+        {
+            "source": "later",
+            "target": "wife",
+            "weight": 16
+        },
+        {
+            "source": "wife",
+            "target": "women",
+            "weight": 4
+        },
+        {
+            "source": "later",
+            "target": "women",
+            "weight": 5
+        },
+        {
+            "source": "father",
+            "target": "wife",
+            "weight": 27
+        },
+        {
+            "source": "friends",
+            "target": "job",
+            "weight": 8
+        },
+        {
+            "source": "later",
+            "target": "wedding",
+            "weight": 11
+        },
+        {
+            "source": "later",
+            "target": "tries",
+            "weight": 15
+        },
+        {
+            "source": "tries",
+            "target": "wedding",
+            "weight": 9
+        },
+        {
+            "source": "job",
+            "target": "later",
+            "weight": 17
+        },
+        {
+            "source": "family",
+            "target": "father",
+            "weight": 12
+        },
+        {
+            "source": "book",
+            "target": "wife",
+            "weight": 8
+        },
+        {
+            "source": "father",
+            "target": "later",
+            "weight": 22
+        },
+        {
+            "source": "band",
+            "target": "job",
+            "weight": 4
+        },
+        {
+            "source": "father",
+            "target": "job",
+            "weight": 17
+        },
+        {
+            "source": "prison",
+            "target": "women",
+            "weight": 5
+        },
+        {
+            "source": "prison",
+            "target": "tries",
+            "weight": 4
+        },
+        {
+            "source": "job",
+            "target": "tries",
+            "weight": 10
+        },
+        {
+            "source": "father",
+            "target": "son",
+            "weight": 17
+        },
+        {
+            "source": "life",
+            "target": "prison",
+            "weight": 9
+        },
+        {
+            "source": "men",
+            "target": "women",
+            "weight": 22
+        },
+        {
+            "source": "friends",
+            "target": "relationship",
+            "weight": 20
+        },
+        {
+            "source": "family",
+            "target": "friends",
+            "weight": 35
+        },
+        {
+            "source": "life",
+            "target": "son",
+            "weight": 4
+        },
+        {
+            "source": "life",
+            "target": "wife",
+            "weight": 6
+        },
+        {
+            "source": "job",
+            "target": "women",
+            "weight": 10
+        },
+        {
+            "source": "family",
+            "target": "relationship",
+            "weight": 14
+        },
+        {
+            "source": "friends",
+            "target": "wedding",
+            "weight": 41
+        },
+        {
+            "source": "job",
+            "target": "wedding",
+            "weight": 5
+        },
+        {
+            "source": "job",
+            "target": "life",
+            "weight": 7
+        },
+        {
+            "source": "family",
+            "target": "men",
+            "weight": 10
+        },
+        {
+            "source": "tries",
+            "target": "wife",
+            "weight": 2
+        },
+        {
+            "source": "relationship",
+            "target": "tries",
+            "weight": 21
+        },
+        {
+            "source": "book",
+            "target": "friends",
+            "weight": 4
+        },
+        {
+            "source": "baby",
+            "target": "relationship",
+            "weight": 7
+        },
+        {
+            "source": "baby",
+            "target": "men",
+            "weight": 8
+        },
+        {
+            "source": "band",
+            "target": "wedding",
+            "weight": 12
+        },
+        {
+            "source": "friends",
+            "target": "tries",
+            "weight": 10
+        },
+        {
+            "source": "chef",
+            "target": "relationship",
+            "weight": 2
+        },
+        {
+            "source": "family",
+            "target": "wedding",
+            "weight": 19
+        },
+        {
+            "source": "friends",
+            "target": "life",
+            "weight": 6
+        },
+        {
+            "source": "family",
+            "target": "life",
+            "weight": 4
+        },
+        {
+            "source": "chef",
+            "target": "job",
+            "weight": 9
+        },
+        {
+            "source": "book",
+            "target": "women",
+            "weight": 7
+        },
+        {
+            "source": "book",
+            "target": "men",
+            "weight": 4
+        },
+        {
+            "source": "friends",
+            "target": "wife",
+            "weight": 2
+        },
+        {
+            "source": "family",
+            "target": "tries",
+            "weight": 20
+        },
+        {
+            "source": "family",
+            "target": "women",
+            "weight": 5
+        },
+        {
+            "source": "son",
+            "target": "wedding",
+            "weight": 4
+        },
+        {
+            "source": "later",
+            "target": "son",
+            "weight": 9
+        },
+        {
+            "source": "son",
+            "target": "tries",
+            "weight": 8
+        },
+        {
+            "source": "copy",
+            "target": "son",
+            "weight": 7
+        },
+        {
+            "source": "family",
+            "target": "son",
+            "weight": 8
+        },
+        {
+            "source": "band",
+            "target": "father",
+            "weight": 13
+        },
+        {
+            "source": "band",
+            "target": "later",
+            "weight": 9
+        },
+        {
+            "source": "band",
+            "target": "life",
+            "weight": 3
+        },
+        {
+            "source": "father",
+            "target": "life",
+            "weight": 7
+        },
+        {
+            "source": "friends",
+            "target": "prison",
+            "weight": 2
+        }
+    ]
+}

@@ -1,0 +1,646 @@
+{
+    "nodes": [
+        {
+            "id": "wedding",
+            "frequency": 11
+        },
+        {
+            "id": "father",
+            "frequency": 8
+        },
+        {
+            "id": "school",
+            "frequency": 8
+        },
+        {
+            "id": "film",
+            "frequency": 7
+        },
+        {
+            "id": "money",
+            "frequency": 7
+        },
+        {
+            "id": "house",
+            "frequency": 6
+        },
+        {
+            "id": "team",
+            "frequency": 5
+        },
+        {
+            "id": "mother",
+            "frequency": 5
+        },
+        {
+            "id": "group",
+            "frequency": 5
+        },
+        {
+            "id": "family",
+            "frequency": 5
+        },
+        {
+            "id": "party",
+            "frequency": 5
+        },
+        {
+            "id": "police",
+            "frequency": 4
+        },
+        {
+            "id": "studio",
+            "frequency": 4
+        },
+        {
+            "id": "ball",
+            "frequency": 4
+        },
+        {
+            "id": "parents",
+            "frequency": 4
+        },
+        {
+            "id": "book",
+            "frequency": 4
+        },
+        {
+            "id": "park",
+            "frequency": 4
+        },
+        {
+            "id": "girls",
+            "frequency": 4
+        },
+        {
+            "id": "baby",
+            "frequency": 3
+        },
+        {
+            "id": "dog",
+            "frequency": 3
+        }
+    ],
+    "links": [
+        {
+            "source": "parents",
+            "target": "party",
+            "weight": 30
+        },
+        {
+            "source": "baby",
+            "target": "parents",
+            "weight": 9
+        },
+        {
+            "source": "dog",
+            "target": "police",
+            "weight": 25
+        },
+        {
+            "source": "mother",
+            "target": "school",
+            "weight": 44
+        },
+        {
+            "source": "house",
+            "target": "party",
+            "weight": 166
+        },
+        {
+            "source": "group",
+            "target": "house",
+            "weight": 36
+        },
+        {
+            "source": "family",
+            "target": "house",
+            "weight": 39
+        },
+        {
+            "source": "house",
+            "target": "school",
+            "weight": 26
+        },
+        {
+            "source": "party",
+            "target": "police",
+            "weight": 66
+        },
+        {
+            "source": "girls",
+            "target": "group",
+            "weight": 9
+        },
+        {
+            "source": "house",
+            "target": "mother",
+            "weight": 85
+        },
+        {
+            "source": "girls",
+            "target": "party",
+            "weight": 20
+        },
+        {
+            "source": "father",
+            "target": "wedding",
+            "weight": 36
+        },
+        {
+            "source": "ball",
+            "target": "mother",
+            "weight": 12
+        },
+        {
+            "source": "family",
+            "target": "father",
+            "weight": 32
+        },
+        {
+            "source": "father",
+            "target": "mother",
+            "weight": 96
+        },
+        {
+            "source": "father",
+            "target": "girls",
+            "weight": 2
+        },
+        {
+            "source": "family",
+            "target": "girls",
+            "weight": 25
+        },
+        {
+            "source": "money",
+            "target": "mother",
+            "weight": 20
+        },
+        {
+            "source": "father",
+            "target": "school",
+            "weight": 57
+        },
+        {
+            "source": "father",
+            "target": "studio",
+            "weight": 8
+        },
+        {
+            "source": "house",
+            "target": "police",
+            "weight": 41
+        },
+        {
+            "source": "mother",
+            "target": "parents",
+            "weight": 35
+        },
+        {
+            "source": "house",
+            "target": "parents",
+            "weight": 64
+        },
+        {
+            "source": "book",
+            "target": "wedding",
+            "weight": 5
+        },
+        {
+            "source": "family",
+            "target": "wedding",
+            "weight": 20
+        },
+        {
+            "source": "group",
+            "target": "school",
+            "weight": 14
+        },
+        {
+            "source": "group",
+            "target": "money",
+            "weight": 16
+        },
+        {
+            "source": "group",
+            "target": "team",
+            "weight": 14
+        },
+        {
+            "source": "parents",
+            "target": "wedding",
+            "weight": 23
+        },
+        {
+            "source": "family",
+            "target": "parents",
+            "weight": 47
+        },
+        {
+            "source": "family",
+            "target": "team",
+            "weight": 6
+        },
+        {
+            "source": "family",
+            "target": "mother",
+            "weight": 9
+        },
+        {
+            "source": "dog",
+            "target": "family",
+            "weight": 32
+        },
+        {
+            "source": "father",
+            "target": "parents",
+            "weight": 38
+        },
+        {
+            "source": "money",
+            "target": "party",
+            "weight": 15
+        },
+        {
+            "source": "dog",
+            "target": "film",
+            "weight": 10
+        },
+        {
+            "source": "dog",
+            "target": "studio",
+            "weight": 5
+        },
+        {
+            "source": "film",
+            "target": "money",
+            "weight": 16
+        },
+        {
+            "source": "film",
+            "target": "group",
+            "weight": 19
+        },
+        {
+            "source": "film",
+            "target": "studio",
+            "weight": 12
+        },
+        {
+            "source": "father",
+            "target": "party",
+            "weight": 52
+        },
+        {
+            "source": "mother",
+            "target": "park",
+            "weight": 4
+        },
+        {
+            "source": "girls",
+            "target": "mother",
+            "weight": 3
+        },
+        {
+            "source": "girls",
+            "target": "house",
+            "weight": 31
+        },
+        {
+            "source": "money",
+            "target": "school",
+            "weight": 45
+        },
+        {
+            "source": "parents",
+            "target": "school",
+            "weight": 20
+        },
+        {
+            "source": "police",
+            "target": "team",
+            "weight": 4
+        },
+        {
+            "source": "baby",
+            "target": "mother",
+            "weight": 14
+        },
+        {
+            "source": "book",
+            "target": "film",
+            "weight": 3
+        },
+        {
+            "source": "money",
+            "target": "wedding",
+            "weight": 7
+        },
+        {
+            "source": "mother",
+            "target": "police",
+            "weight": 6
+        },
+        {
+            "source": "group",
+            "target": "party",
+            "weight": 40
+        },
+        {
+            "source": "dog",
+            "target": "house",
+            "weight": 13
+        },
+        {
+            "source": "film",
+            "target": "house",
+            "weight": 5
+        },
+        {
+            "source": "film",
+            "target": "party",
+            "weight": 2
+        },
+        {
+            "source": "family",
+            "target": "party",
+            "weight": 17
+        },
+        {
+            "source": "film",
+            "target": "parents",
+            "weight": 3
+        },
+        {
+            "source": "family",
+            "target": "film",
+            "weight": 15
+        },
+        {
+            "source": "baby",
+            "target": "money",
+            "weight": 11
+        },
+        {
+            "source": "house",
+            "target": "money",
+            "weight": 22
+        },
+        {
+            "source": "baby",
+            "target": "house",
+            "weight": 9
+        },
+        {
+            "source": "ball",
+            "target": "wedding",
+            "weight": 3
+        },
+        {
+            "source": "mother",
+            "target": "wedding",
+            "weight": 38
+        },
+        {
+            "source": "party",
+            "target": "wedding",
+            "weight": 64
+        },
+        {
+            "source": "house",
+            "target": "wedding",
+            "weight": 2
+        },
+        {
+            "source": "money",
+            "target": "parents",
+            "weight": 8
+        },
+        {
+            "source": "police",
+            "target": "school",
+            "weight": 9
+        },
+        {
+            "source": "dog",
+            "target": "school",
+            "weight": 7
+        },
+        {
+            "source": "father",
+            "target": "house",
+            "weight": 63
+        },
+        {
+            "source": "group",
+            "target": "mother",
+            "weight": 10
+        },
+        {
+            "source": "mother",
+            "target": "party",
+            "weight": 29
+        },
+        {
+            "source": "money",
+            "target": "police",
+            "weight": 19
+        },
+        {
+            "source": "party",
+            "target": "school",
+            "weight": 43
+        },
+        {
+            "source": "book",
+            "target": "school",
+            "weight": 10
+        },
+        {
+            "source": "dog",
+            "target": "wedding",
+            "weight": 8
+        },
+        {
+            "source": "book",
+            "target": "mother",
+            "weight": 9
+        },
+        {
+            "source": "father",
+            "target": "police",
+            "weight": 7
+        },
+        {
+            "source": "parents",
+            "target": "park",
+            "weight": 11
+        },
+        {
+            "source": "girls",
+            "target": "parents",
+            "weight": 7
+        },
+        {
+            "source": "book",
+            "target": "studio",
+            "weight": 4
+        },
+        {
+            "source": "baby",
+            "target": "book",
+            "weight": 8
+        },
+        {
+            "source": "party",
+            "target": "studio",
+            "weight": 7
+        },
+        {
+            "source": "money",
+            "target": "studio",
+            "weight": 17
+        },
+        {
+            "source": "book",
+            "target": "family",
+            "weight": 8
+        },
+        {
+            "source": "baby",
+            "target": "father",
+            "weight": 21
+        },
+        {
+            "source": "dog",
+            "target": "park",
+            "weight": 9
+        },
+        {
+            "source": "girls",
+            "target": "school",
+            "weight": 27
+        },
+        {
+            "source": "book",
+            "target": "father",
+            "weight": 9
+        },
+        {
+            "source": "book",
+            "target": "party",
+            "weight": 9
+        },
+        {
+            "source": "father",
+            "target": "money",
+            "weight": 15
+        },
+        {
+            "source": "family",
+            "target": "school",
+            "weight": 4
+        },
+        {
+            "source": "baby",
+            "target": "family",
+            "weight": 20
+        },
+        {
+            "source": "group",
+            "target": "wedding",
+            "weight": 17
+        },
+        {
+            "source": "dog",
+            "target": "father",
+            "weight": 4
+        },
+        {
+            "source": "group",
+            "target": "park",
+            "weight": 6
+        },
+        {
+            "source": "baby",
+            "target": "police",
+            "weight": 4
+        },
+        {
+            "source": "group",
+            "target": "parents",
+            "weight": 12
+        },
+        {
+            "source": "school",
+            "target": "team",
+            "weight": 11
+        },
+        {
+            "source": "family",
+            "target": "money",
+            "weight": 6
+        },
+        {
+            "source": "dog",
+            "target": "party",
+            "weight": 4
+        },
+        {
+            "source": "family",
+            "target": "group",
+            "weight": 4
+        },
+        {
+            "source": "father",
+            "target": "group",
+            "weight": 2
+        },
+        {
+            "source": "house",
+            "target": "studio",
+            "weight": 9
+        },
+        {
+            "source": "group",
+            "target": "studio",
+            "weight": 9
+        },
+        {
+            "source": "mother",
+            "target": "studio",
+            "weight": 9
+        },
+        {
+            "source": "police",
+            "target": "studio",
+            "weight": 7
+        },
+        {
+            "source": "group",
+            "target": "police",
+            "weight": 2
+        },
+        {
+            "source": "girls",
+            "target": "money",
+            "weight": 15
+        },
+        {
+            "source": "park",
+            "target": "police",
+            "weight": 14
+        },
+        {
+            "source": "park",
+            "target": "team",
+            "weight": 9
+        },
+        {
+            "source": "party",
+            "target": "team",
+            "weight": 8
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSV File Upload and Bubble Chart</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://unpkg.com/d3-tip"></script>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='css/anyStyle.css') }}"
+    />
+  </head>
+  <body>
+    <div class="tab">
+      <button
+        class="tablinks"
+        onclick="openTab(event, 'Tab1')"
+        id="defaultOpen"
+      >
+        Tab 1
+      </button>
+      <button class="tablinks" onclick="openTab(event, 'Tab2')">Tab 2</button>
+      <button class="tablinks" onclick="openTab(event, 'Tab3')">Tab 3</button>
+      <button class="tablinks" onclick="openTab(event, 'Tab4')">Tab 4</button>
+    </div>
+
+    <!-- Tab1 content -->
+    <div id="Tab1" class="tabcontent">
+      <h3>Tab 1 Content</h3>
+      <p>Content for Tab 1 goes here.</p>
+      <!-- Dropdown for selecting the dataset -->
+      <div class="dropdown-container">
+        <label for="dataset-select">Number of Bubbles to show: </label>
+        <select id="dataset-select">
+          <option value="keywords">Genre</option>
+          <option value="years">Years</option>
+          <option value="origins">Origin/Ethnicity</option>
+        </select>
+      </div>
+      <hr style="margin-top: 20px; margin-bottom: 20px;" />
+
+      <!-- SVG container where the bubble chart will be rendered -->
+      <svg id="svg1"></svg>
+    </div>
+
+    <!-- Tab2 content -->
+    <div id="Tab2" class="tabcontent">
+      <h1>Upload a CSV File</h1>
+      <form
+        id="upload-form"
+        action="/upload"
+        method="post"
+        enctype="multipart/form-data"
+      >
+        <input type="file" name="file" accept=".csv" />
+        <input type="submit" value="Upload" />
+      </form>
+      <div class="dropdown-container" id="column-selection">
+        <!-- The dropdown will be populated by anyBubble.js -->
+      </div>
+      <button id="create-chart" type="button">Create Bubble Chart</button>
+      <hr style="margin-top: 20px; margin-bottom: 20px;" />
+
+      <svg id="svg3"></svg>
+    </div>
+
+    <!-- Tab3 content -->
+    <div id="Tab3" class="tabcontent">
+      <h3>Tab 2 Content</h3>
+      <p>Content for Tab 2 goes here.</p>
+      <button id="resetButton">Reset Visualization</button>
+      <div class="dropdown-container">
+        <select id="genreSelector">
+          <option value="All">All</option>
+          <option value="Romance">Romance</option>
+          <option value="Action">Action</option>
+          <option value="Comedy">Comedy</option>
+          <option value="Drama">Drama</option>
+          <option value="Horror">Horror</option>
+        </select>
+      </div>
+      <hr style="margin-top: 20px; margin-bottom: 20px;" />
+      <svg id="svg2"></svg>
+
+      <div id="tooltip" class="tooltip"></div>
+      <div id="detailsPanel" class="details-panel" style="display: none">
+        <div class="panel-heading">Node Details</div>
+        <table id="detailsTable">
+          <thead>
+            <tr>
+              <th>Node</th>
+              <th>Connected To</th>
+              <th>Weight</th>
+            </tr>
+          </thead>
+          <tbody id="nodeDetails"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Tab4 content -->
+    <div id="Tab4" class="tabcontent">
+      <!-- Content for Tab 4 will be loaded dynamically -->
+    </div>
+
+    <script src="{{ url_for('static', filename='js/tabHandler.js') }}"></script>
+    <!-- tabHandler.js should contain the openTab function and any other initial JavaScript -->
+  </body>
+</html>
