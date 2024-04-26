@@ -19,9 +19,12 @@ function openTab(evt, tabName) {
   if (tabName === "Tab1" || tabName === "Tab3") {
     // Run the code from bubble_chart.js
     loadBubbleChart();
-  } else if (tabName === "Tab2" || tabName === "Tab4") {
+  } else if (tabName === "Tab2") {
     // Run the code from anyBubble.js
     loadAnyBubble();
+  }else if (tabName === "Tab4") {
+    // Run the code from anyBubble.js
+    loadanyNetwork();
   }
 }
 
@@ -42,6 +45,17 @@ function loadBubbleChart() {
 function loadAnyBubble() {
   let script = document.createElement("script");
   script.src = "/static/js/anyBubble.js";
+  script.onload = function() {
+    // This function is called after the script is loaded
+    // You can initialize your anyBubble chart here if the function is in anyBubble.js
+    // initializeAnyBubbleChart(); // Replace with actual initialization function
+  };
+  document.body.appendChild(script);
+}
+
+function loadanyNetwork() {
+  let script = document.createElement("script");
+  script.src = "/static/js/anyNetwork.js";
   script.onload = function() {
     // This function is called after the script is loaded
     // You can initialize your anyBubble chart here if the function is in anyBubble.js

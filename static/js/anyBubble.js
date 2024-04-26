@@ -211,29 +211,3 @@ function drawBubbles(data) {
   drawBubbles(currentData);
 }
 
-// Call drawBubbles function with the data
-// fetch("uploads/frequencies.json")
-//   .then(response => response.json())
-//   .then(data => {
-//     // Assuming you want to visualize the 'type' frequency data
-//     drawBubbles(data.type);
-//   })
-//   .catch(error => {
-//     console.error("Error loading the frequency data: ", error);
-//   });
-///////////////Tabs/////////////////////////////
-// function openTab(evt, tabName) {
-//   var i, tabcontent, tablinks;
-//   tabcontent = document.getElementsByClassName("tabcontent");
-//   for (i = 0; i < tabcontent.length; i++) {
-//     tabcontent[i].style.display = "none";
-//   }
-//   tablinks = document.getElementsByClassName("tablinks");
-//   for (i = 0; i < tablinks.length; i++) {
-//     tablinks[i].className = tablinks[i].className.replace(" active", "");
-//   }
-//   document.getElementById(tabName).style.display = "block";
-//   evt.currentTarget.className += " active";
-// }
-
-// document.getElementById("defaultOpen").click();

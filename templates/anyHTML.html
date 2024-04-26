@@ -100,10 +100,26 @@
       </div>
     </div>
 
-    <!-- Tab4 content -->
-    <div id="Tab4" class="tabcontent">
-      <!-- Content for Tab 4 will be loaded dynamically -->
-    </div>
+<!-- Tab4 content -->
+<div id="Tab4" class="tabcontent">
+  <h1>Upload a CSV File</h1>
+  <form
+    id="upload-form"
+    action="/upload"
+    method="post"
+    enctype="multipart/form-data"
+  >
+    <input type="file" name="file" accept=".csv" />
+    <input type="submit" value="Upload" />
+  </form>
+  <div class="dropdown-container" id="column-selection2">
+    <!-- The dropdown will be populated by anyBubble.js -->
+  </div>
+  <button id="create-chart" type="button">Create Bubble Chart</button>
+  <hr style="margin-top: 20px; margin-bottom: 20px;" />
+
+  <svg id="svg4"></svg>
+</div>
 
     <script src="{{ url_for('static', filename='js/tabHandler.js') }}"></script>
     <!-- tabHandler.js should contain the openTab function and any other initial JavaScript -->
