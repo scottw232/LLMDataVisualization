@@ -1,5 +1,5 @@
 console.log("In anyNetwork")
-document.getElementById("upload-form").onsubmit = function(e) {
+document.getElementById("upload-form2").onsubmit = function(e) {
     e.preventDefault();
     var formData = new FormData(this);
     fetch("/upload", {
@@ -26,16 +26,18 @@ document.getElementById("upload-form").onsubmit = function(e) {
   
         // Set the innerHTML of the column-selection2 div with the new dropdown HTML
         document.getElementById("column-selection2").innerHTML = selectHTML;
+        console.log("Dropdown populated", document.getElementById("column-dropdown2"));
+
   
         // Re-enable the create chart button
-        document.getElementById("create-chart").disabled = false;
+        document.getElementById("create-chart2").disabled = false;
       })
       .catch(error => console.error("Error:", error));
   };
   
-  document.getElementById("create-chart").addEventListener("click", function() {
+  document.getElementById("create-chart2").addEventListener("click", function() {
     //console.log("Button clicked, creating chart.");
-    var selectedColumn = document.getElementById("column-dropdown").value;
+    var selectedColumn = document.getElementById("column-dropdown2").value;
     fetch("/get-data", {
       method: "POST",
       headers: {
@@ -63,7 +65,7 @@ document.getElementById("upload-form").onsubmit = function(e) {
   });
   
   // Initially, disable the create chart button until data is loaded
-  document.getElementById("create-chart").disabled = true;
+  document.getElementById("create-chart2").disabled = true;
   // This function assumes 'data' is the JSON object from your 'frequencies.json' file.
   
   // Define the tooltip outside of the drawBubbles function to avoid duplicates
