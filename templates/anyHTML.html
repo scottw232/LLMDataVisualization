@@ -19,35 +19,64 @@
         onclick="openTab(event, 'Tab1')"
         id="defaultOpen"
       >
-        Tab 1
+      Visualizing Weights
       </button>
-      <button class="tablinks" onclick="openTab(event, 'Tab2')">Tab 2</button>
-      <button class="tablinks" onclick="openTab(event, 'Tab3')">Tab 3</button>
-      <button class="tablinks" onclick="openTab(event, 'Tab4')">Tab 4</button>
+      <button class="tablinks" onclick="openTab(event, 'Tab2')">Upload Weights Visualization</button>
+      <button class="tablinks" onclick="openTab(event, 'Tab3')">Language Network</button>
+      <button class="tablinks" onclick="openTab(event, 'Tab4')">Upload Language Network</button>
     </div>
 
     <!-- Tab1 content -->
     <div id="Tab1" class="tabcontent">
-      <h3>Tab 1 Content</h3>
-      <p>Content for Tab 1 goes here.</p>
+
+      <div class="flex-container">
+
+      <div class="container">
+
+        <h1>Visualizing Weights</h1>
+        <p>This visualization resembles a bubble chart, commonly used to display multiple categories of data, where each category's importance or value is represented by the size of its bubble.</p>
+        <p>When data is fed into an LLM, it goes through a preprocessing stage where it is transformed into a format the model can understand. 
+          This often involves tokenization (breaking up text into pieces), normalization (standardizing text), and encoding (turning text into numerical values). 
+          Through this process, words in the model are assigned certain weights which help the model understand the importance of words. 
+          <br>The model then uses the preprocessed data with attached weights to predict or generate text. The bubble chart represents the weight of the words in a visual format, 
+          with the size and clustering of bubbles showing how different pieces of data might be weighted or categorized by the LLM.</p>
+        
+        <div class="reference">
+            <p>This data is taken from Kaggle: <a href="https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots" target="_blank">https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots</a><br>The dataset contains descriptions of 34,886 movies from around the world. </p>
+            <p><strong>Instructions:</strong>
+              <ul>
+                <li>Use the dropdown selector to see other categories.</li>
+                <li>Hover over bubbles to see frequency.</li>
+              </ul>
+              </p>
       <!-- Dropdown for selecting the dataset -->
       <div class="dropdown-container">
-        <label for="dataset-select">Number of Bubbles to show: </label>
+        <label for="dataset-select">Category: </label>
         <select id="dataset-select">
           <option value="keywords">Genre</option>
           <option value="years">Years</option>
           <option value="origins">Origin/Ethnicity</option>
         </select>
       </div>
+    </div>
+  </div>
+
       <hr style="margin-top: 20px; margin-bottom: 20px;" />
 
-      <!-- SVG container where the bubble chart will be rendered -->
-      <svg id="svg1"></svg>
+            <!-- SVG container where the bubble chart will be rendered -->
+            <svg id="svg1"></svg>
+
+
     </div>
+  </div>
 
     <!-- Tab2 content -->
     <div id="Tab2" class="tabcontent">
-      <h1>Upload a CSV File</h1>
+      <h1>Upload Weights Visualization</h1>
+      <p>Upload your own CSV file to make a bubble chart. The system looks for columns with categories, which are groups or types of data, like 'colors' or 'brands'. 
+        <br>Pick the category column you want to turn into a chart and click the "Create Bubble Chart". 
+        <br>The size of each bubble will show how many times that type of data shows up, helping you see and compare your data at a glance. 
+        <br>You can hover over each bubble for more detail</p>
       <form
         id="upload-form"
         action="/upload"
@@ -61,6 +90,14 @@
         <!-- The dropdown will be populated by anyBubble.js -->
       </div>
       <button id="create-chart" type="button">Create Bubble Chart</button>
+      <div class="reference">
+        <p><strong>Instructions:</strong>
+          <ul>
+            <li>Use the dropdown selector to see other categories.</li>
+            <li>Hover over bubbles to see frequency.</li>
+          </ul>
+          </p>
+      </div>
       <hr style="margin-top: 20px; margin-bottom: 20px;" />
 
       <svg id="svg3"></svg>
@@ -68,8 +105,31 @@
 
     <!-- Tab3 content -->
     <div id="Tab3" class="tabcontent">
-      <h3>Tab 2 Content</h3>
-      <p>Content for Tab 2 goes here.</p>
+      <h3>Language Network</h3>
+      <p>This network diagram visualizes the relationships between words as they might be interpreted by a Large Language Model (LLM). 
+        Each bubble represents a word and its frequency indicates its prominence within the data used by the LLM. 
+        The connecting lines illustrate how often words are associated with each other in the dataset, suggesting how the model might predict the proximity of concepts. 
+        A thicker line implies a stronger association, which can influence the LLM's understanding and generation of text. 
+        This type of visualization gives us insight into the complex structure of data relationships that an LLM navigates to process and generate language.</p>
+
+        <p>This diagram has been tailored to represent a more focused dataset: only American films in English since 2008 have been included. 
+          This choice was made to lessen the clutter and reduce the total number of nodes for clarity in this visualization. In a comprehensive LLM, there would be no such restrictions, 
+          allowing for a vast and intricate network of word associations based on a much broader and more diverse dataset. Such unrestricted data would create an incredibly dense network, 
+          reflecting the LLM’s extensive capacity for language understanding and generation.
+        </p>
+      
+      <div class="reference">
+        <p>This data is taken from Kaggle: <a href="https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots" target="_blank">https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots</a><br>The dataset contains descriptions of 34,886 movies from around the world.</p>
+        <p>Use the dropdown selector to see other film categories.</p>
+        <p><strong>Instructions:</strong>
+        <ul>
+          <li>Drag nodes around to get a better visual of connecting nodes. </li>
+          <li>Hover over nodes to see frequency.</li>
+          <li>Hover over links to see weight.</li>
+          <li>Click on a node to see connections and generate a table showing frequency and weight of connecting nodes. </li>
+          <li>Double click a node to reset it. </li>
+        </ul>
+        </p>
       <button id="resetButton">Reset Visualization</button>
       <div class="dropdown-container">
         <select id="genreSelector">
@@ -81,11 +141,12 @@
           <option value="Horror">Horror</option>
         </select>
       </div>
-      <hr style="margin-top: 20px; margin-bottom: 20px;" />
-      <svg id="svg2"></svg>
+
+      </div>
+
 
       <div id="tooltip" class="tooltip"></div>
-      <div id="detailsPanel" class="details-panel" style="display: none">
+      <div id="detailsPanel" class="details-panel" style="display: none; margin-top: 800px;">
         <div class="panel-heading">Node Details</div>
         <table id="detailsTable">
           <thead>
@@ -98,11 +159,29 @@
           <tbody id="nodeDetails"></tbody>
         </table>
       </div>
+      <hr style="margin-top: 20px; margin-bottom: 20px;" />
+      <svg id="svg2"></svg>
     </div>
 
 <!-- Tab4 content -->
 <div id="Tab4" class="tabcontent">
-  <h1>Upload a CSV File</h1>
+  <h1>Upload Language Network</h1>
+  <p>Upload your own CSV file to make a language network.
+    <br>This visualization tool begins by selecting the non-categorical data from a CSV file of your choice. 
+    <br>After selecting a column, and pressing the "Create Network" button, the system will then process the data by:
+    <ul>
+      <li>Filtering out proper names - names for people, places, or things</li>
+      <li>Filtering out 'Stop words' - common words like 'and', 'the', 'a', 'of' or other words with less meaning</li>
+      <li>Identifying key words and their themes</li>
+      <li>Looking at word pairings that frequently occur together</li>
+    </ul>
+  </p>
+
+  <p>
+    The network is then formed with nodes representing the key words and links that show the connection between word pairs. 
+    <br>The final step is to refine this network, focusing on the most frequently appearing to reduce visual clutter. 
+    <br>The end result is a network that displays the relationships between words as they might be interpreted by an LLM.
+  </p>
   <form
     id="upload-form2"
     action="/upload"
@@ -115,10 +194,43 @@
   <div class="dropdown-container" id="column-selection2">
     <!-- The dropdown will be populated by anyBubble.js -->
   </div>
-  <button id="create-chart2" type="button">Create Bubble Chart</button>
+  
+  <button id="create_network" type="button">Create Network</button>
+  <button id="resetButton2">Reset Visualization</button>
+  <div class="reference">
+    <p><i>*Note* This may take a while depending on the size of the dataset.</i></p>
+    <p><strong>Instructions:</strong>
+      <ul>
+        <li>Drag nodes around to get a better visual of connecting nodes. </li>
+        <li>Hover over nodes to see frequency.</li>
+        <li>Hover over links to see weight.</li>
+        <li>Click on a node to see connections and generate a table showing frequency and weight of connecting nodes. </li>
+        <li>Double click a node to reset it. </li>
+      </ul>
+      </p>
+
+
+  </div>
+
+
   <hr style="margin-top: 20px; margin-bottom: 20px;" />
 
   <svg id="svg4"></svg>
+
+  <div id="tooltip2" class="tooltip"></div>
+  <div id="detailsPanel2" class="details-panel" style="display: none; margin-top: 1000px;">
+    <div class="panel-heading">Node Details</div>
+    <table id="detailsTable2">
+      <thead>
+        <tr>
+          <th>Node</th>
+          <th>Connected To</th>
+          <th>Weight</th>
+        </tr>
+      </thead>
+      <tbody id="nodeDetails2"></tbody>
+    </table>
+  </div>
 </div>
 
     <script src="{{ url_for('static', filename='js/tabHandler.js') }}"></script>

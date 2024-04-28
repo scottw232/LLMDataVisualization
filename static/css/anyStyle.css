@@ -31,7 +31,7 @@
   pointer-events: none;
   text-anchor: middle;
   alignment-baseline: middle;
-  font-size: 15px; /* Increased font size */
+  font-size: 15px; 
 }
 .details-panel {
   position: absolute;
@@ -72,6 +72,22 @@
 #detailsTable tr:nth-child(even) {
   background-color: #f9f9f9;
 }
+#detailsTable2 {
+  width: 100%;
+  border-collapse: collapse;
+}
+#detailsTable2 th,
+#detailsTable2 td {
+  border: 1px solid #ddd;
+  padding: 5px;
+  text-align: left;
+}
+#detailsTable2 th {
+  background-color: #f2f2f2;
+}
+#detailsTable2 tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
 button,
 select {
   font-family: "Arial", sans-serif;
@@ -98,29 +114,27 @@ select {
   font-size: 16px;
   padding: 10px;
   margin: 5px;
-  border: 1px solid #ccc; /* Changed to a lighter border */
+  border: 1px solid #ccc; 
   border-radius: 5px;
-  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Lighter shadow for a subtle effect */
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); 
   cursor: pointer;
   outline: none;
   transition: all 0.3s ease;
-  -webkit-appearance: none; /* Removes default styling on WebKit browsers */
-  -moz-appearance: none; /* Removes default styling on Firefox */
-  appearance: none; /* Standard way to remove default styling */
+  -webkit-appearance: none; 
+  -moz-appearance: none; 
+  appearance: none; 
 }
 
-/* You can style the hover state as well for a nice interactive effect */
 select:hover {
-  border-color: #007bff; /* Highlight border color on hover */
+  border-color: #007bff; 
 }
 
 .dropdown-container {
   position: relative;
   display: inline-block;
-  width: 30000px; /* Adjust this to the desired width or keep it at 100% to fill the container */
+  width: 300px; 
 }
 
-/* Style the select element */
 .dropdown-container select {
   width: 300px;
   box-sizing: border-box;
@@ -131,14 +145,13 @@ select:hover {
   border: 1px solid #ccc;
 }
 
-/* Style for the dropdown arrow */
+
 .dropdown-container::after {
   content: "▼";
   position: absolute;
-  top: 50%;
-  transform: translateY(-10px);
-  transform: translateX(-30px);
-  pointer-events: none; /* Ensures that clicks on the arrow don't do anything */
+  top: 55%;
+  transform: translateX(275px);
+  pointer-events: none; 
   color: #333;
   font-size: 16px;
 }
@@ -176,4 +189,43 @@ select:hover {
   padding: 6px 12px;
   border: 1px solid #ccc;
   border-top: none;
+}
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+.flex-container {
+  display: flex;
+  align-items: flex-start; 
+  width: 100%; 
+}
+.container {
+  flex: 1;
+  padding-right: 20px;
+}
+h3 {
+  border-bottom: 2px solid #f3f3f3;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+p {
+  text-align: left;
+}
+.reference {
+  background-color: #f9f9f9;
+  border-left: 3px solid #0078D7;
+  padding: 10px;
+  margin-top: 20px;
+  font-size: 0.9em;
+}
+.reference a {
+  color: #0078D7;
+  text-decoration: none;
+}
+.reference a:hover {
+  text-decoration: underline;
+}
+#svg1 {
+  width: 800px;
+  height: 800px;
 }

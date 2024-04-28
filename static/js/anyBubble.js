@@ -23,10 +23,8 @@ document.getElementById("upload-form").onsubmit = function(e) {
       });
       selectHTML += "</select>";
 
-      // Set the innerHTML of the column-selection div with the new dropdown HTML
       document.getElementById("column-selection").innerHTML = selectHTML;
 
-      // Re-enable the create chart button
       document.getElementById("create-chart").disabled = false;
     })
     .catch(error => console.error("Error:", error));
@@ -54,18 +52,13 @@ document.getElementById("create-chart").addEventListener("click", function() {
         return;
       }
 
-      // Assuming createBubbleChart is a defined function
-      console.log(data); // Add this to log your data
+      console.log(data); 
       drawBubbles(data);
     })
     .catch(error => console.error("Error fetching chart data:", error));
 });
 
-// Initially, disable the create chart button until data is loaded
 document.getElementById("create-chart").disabled = true;
-// This function assumes 'data' is the JSON object from your 'frequencies.json' file.
-
-// Define the tooltip outside of the drawBubbles function to avoid duplicates
 
 function createColorScale(data) {
   return d3
@@ -87,12 +80,11 @@ var tip = d3
   .tip()
   .attr("class", "d3-tip")
   .html(function(d) {
-    // Make sure to use 'event' and 'd' to access the event and data
     console.log("Data point:", d);
-    return "Keyword: " + d.keyword + "<br>Frequency: " + d.frequency; // Adjust this line based on your data structure
+    return "Keyword: " + d.keyword + "<br>Frequency: " + d.frequency; 
   });
 
-// Use only one drawBubbles function
+// Main function
 function drawBubbles(data) {
   console.log("Data received in drawBubbles:", data);
   const svgWidth = 1000;
@@ -139,7 +131,6 @@ function drawBubbles(data) {
     .style("pointer-events", "none")
     .style("opacity", 0);
 
-  // Join operation in D3 v6 replaces the enter() and exit() pattern
   const circles = svg3.selectAll("circle").data(bubbles, d => d.keyword);
   circles.join(
     enter =>

@@ -9,8 +9,8 @@ function initializeBubbleChart() {
 
       let currentData = dataGenres;
 
-      const svgWidth = 1000;
-      const svgHeight = 1000;
+      const svgWidth = 800;
+      const svgHeight = 800;
 
       const svg1 = d3
         .select("#svg1")
@@ -408,19 +408,3 @@ d3.select("#svg2").on("click", function() {
   d3.select("#detailsPanel").style("display", "none");
 });
 /////////////////////////////////////////////////////////////////////
-//Tab JS
-// function openTab(evt, tabName) {
-//   var i, tabcontent, tablinks;
-//   tabcontent = document.getElementsByClassName("tabcontent");
-//   for (i = 0; i < tabcontent.length; i++) {
-//     tabcontent[i].style.display = "none";
-//   }
-//   tablinks = document.getElementsByClassName("tablinks");
-//   for (i = 0; i < tablinks.length; i++) {
-//     tablinks[i].className = tablinks[i].className.replace(" active", "");
-//   }
-//   document.getElementById(tabName).style.display = "block";
-//   evt.currentTarget.className += " active";
-// }
-
-// document.getElementById("defaultOpen").click();
